@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Математика on NoteSphere</title>
+    <link>https://mcfev.github.io/NoteSphere/tags/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/</link>
+    <description>Recent content in Математика on NoteSphere</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0300</lastBuildDate>
+    <atom:link href="https://mcfev.github.io/NoteSphere/tags/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Самая красивая теорема математики: тождество Эйлера</title>
+      <link>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate>
+      <guid>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</guid>
+      <description>&amp;#x1f517; источник</description>
+    </item>
+    <item>
+      <title>Красота математики</title>
+      <link>https://mcfev.github.io/NoteSphere/posts/beauty_of_mathematics/</link>
+      <pubDate>Fri, 27 Apr 2007 00:00:00 +0300</pubDate>
+      <guid>https://mcfev.github.io/NoteSphere/posts/beauty_of_mathematics/</guid>
+      <description>1 х 8 + 1 = 9
+12 х 8 + 2 = 98
+123 х 8 + 3 = 987
+1234 х 8 + 4 = 9876
+12345 х 8 + 5 = 98765
+123456 х 8 + 6 = 987654
+1234567 х 8 + 7 = 9876543
+12345678 х 8 + 8 = 98765432
+123456789 х 8 + 9 = 987654321
+&amp;#x1f517; источник, &amp;#x1f5c2;&amp;#xfe0f; архив</description>
+    </item>
+  </channel>
+</rss>

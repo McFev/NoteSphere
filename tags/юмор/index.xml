@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Юмор on NoteSphere</title>
+    <link>https://mcfev.github.io/NoteSphere/tags/%D1%8E%D0%BC%D0%BE%D1%80/</link>
+    <description>Recent content in Юмор on NoteSphere</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Tue, 02 May 2017 00:00:00 +0300</lastBuildDate>
+    <atom:link href="https://mcfev.github.io/NoteSphere/tags/%D1%8E%D0%BC%D0%BE%D1%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Юмор</title>
+      <link>https://mcfev.github.io/NoteSphere/posts/humor/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0300</pubDate>
+      <guid>https://mcfev.github.io/NoteSphere/posts/humor/</guid>
+      <description> Сайт Ссылка Если бы плотников нанимали так же, как программистов Хакер в столовой </description>
+    </item>
+  </channel>
+</rss>
