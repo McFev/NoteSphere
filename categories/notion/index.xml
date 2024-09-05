@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Notion on NoteSphere</title>
-    <link>https://mcfev.github.io/categories/notion/</link>
+    <link>https://mcfev.github.io/NoteSphere/categories/notion/</link>
     <description>Recent content in Notion on NoteSphere</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>ru-RU</language>
     <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0300</lastBuildDate>
-    <atom:link href="https://mcfev.github.io/categories/notion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mcfev.github.io/NoteSphere/categories/notion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Кубик Рубика</title>
-      <link>https://mcfev.github.io/posts/rubiks_cube/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/rubiks_cube/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/posts/rubiks_cube/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/rubiks_cube/</guid>
       <description>&amp;#x1f517; источник
 r/nextfuckinglevel Четыре самых простых способа собрать кубик Рубика. Сохраняем и используем! так не работает, есть невращающиеся части</description>
     </item>
     <item>
       <title>Программа удаления накипи (CALC) — полная длительность: ~20 минут</title>
-      <link>https://mcfev.github.io/posts/krups_calc/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/krups_calc/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/posts/krups_calc/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/krups_calc/</guid>
       <description>Количество накипи зависит от жесткости используемой воды. Прибор предупредит вас о необходимости проведения удаления накипи миганием светового индикатора «Накипь» (‘CALC’).
 Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке.
 ⚠️ Для соблюдения гарантийных условий необходимо выполнять цикл удаления накипи, когда прибор этого требует. Старайтесь соблюдать правильный порядок проведения операций. Когда индикатор горит, вы можете продолжать использовать устройство, но желательно выполнить программу как можно быстрее.
@@ -28,18 +28,18 @@ r/nextfuckinglevel Четыре самых простых способа соб�
     </item>
     <item>
       <title>Программа чистки (CLEAN) — полная длительность: ~13 минут</title>
-      <link>https://mcfev.github.io/posts/krups_clean/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/krups_clean/</link>
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/posts/krups_clean/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/krups_clean/</guid>
       <description>Прибор предупредит Вас о необходимости проведения очистки миганием светового индикатора «Очистка» (‘CLEAN’). Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке (приблизительно после 300 рабочих циклов приготовления кофе или эспрессо).
 ⚠️ Для соблюдения гарантийных условий необходимо выполнять цикл очистки прибора, когда он этого требует. Старайтесь соблюдать правильный порядок проведения операций.
 Используйте только таблетки для очистки KRUPS. Вы можете приобрести изделия для очистки в сервисных центрах фирмы KRUPS.</description>
     </item>
     <item>
       <title>Самая красивая теорема математики: тождество Эйлера</title>
-      <link>https://mcfev.github.io/posts/eulers_identity/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/posts/eulers_identity/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</guid>
       <description>&amp;#x1f517; источник</description>
     </item>
   </channel>

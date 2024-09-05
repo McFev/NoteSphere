@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Krups on NoteSphere</title>
-    <link>https://mcfev.github.io/tags/krups/</link>
+    <link>https://mcfev.github.io/NoteSphere/tags/krups/</link>
     <description>Recent content in Krups on NoteSphere</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0300</lastBuildDate>
-    <atom:link href="https://mcfev.github.io/tags/krups/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mcfev.github.io/NoteSphere/tags/krups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Программа удаления накипи (CALC) — полная длительность: ~20 минут</title>
-      <link>https://mcfev.github.io/posts/krups_calc/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/krups_calc/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/posts/krups_calc/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/krups_calc/</guid>
       <description>Количество накипи зависит от жесткости используемой воды. Прибор предупредит вас о необходимости проведения удаления накипи миганием светового индикатора «Накипь» (‘CALC’).
 Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке.
 ⚠️ Для соблюдения гарантийных условий необходимо выполнять цикл удаления накипи, когда прибор этого требует. Старайтесь соблюдать правильный порядок проведения операций. Когда индикатор горит, вы можете продолжать использовать устройство, но желательно выполнить программу как можно быстрее.
@@ -20,9 +20,9 @@
     </item>
     <item>
       <title>Программа чистки (CLEAN) — полная длительность: ~13 минут</title>
-      <link>https://mcfev.github.io/posts/krups_clean/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/krups_clean/</link>
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/posts/krups_clean/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/krups_clean/</guid>
       <description>Прибор предупредит Вас о необходимости проведения очистки миганием светового индикатора «Очистка» (‘CLEAN’). Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке (приблизительно после 300 рабочих циклов приготовления кофе или эспрессо).
 ⚠️ Для соблюдения гарантийных условий необходимо выполнять цикл очистки прибора, когда он этого требует. Старайтесь соблюдать правильный порядок проведения операций.
 Используйте только таблетки для очистки KRUPS. Вы можете приобрести изделия для очистки в сервисных центрах фирмы KRUPS.</description>
