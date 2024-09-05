@@ -14,5 +14,5 @@ categories:
 
 | Сайт  | Ссылка |
 | ----- | --- |
-| ![habr](/images/habr.png "habr") | [Если бы плотников нанимали так же, как программистов](https://habr.com/ru/articles/285570/) |
-| ![xakep](/images/xakep.png "xakep") | [Хакер в столовой](https://xakep.ru/2006/12/16/35784/) |
+| ![habr](../../images/habr.png "habr") | [Если бы плотников нанимали так же, как программистов](https://habr.com/ru/articles/285570/) |
+| ![xakep](../../images/xakep.png "xakep") | [Хакер в столовой](https://xakep.ru/2006/12/16/35784/) |

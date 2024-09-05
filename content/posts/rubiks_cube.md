@@ -14,21 +14,21 @@ cover:
   relative: false
 ---
 
-![шаг 1](/images/rubiks_cube1.png "шаг 1")
+![шаг 1](../../images/rubiks_cube1.png "шаг 1")
 
-![шаг 2](/images/rubiks_cube2.png "шаг 2")
+![шаг 2](../../images/rubiks_cube2.png "шаг 2")
 
-![шаг 3](/images/rubiks_cube3.png "шаг 3")
+![шаг 3](../../images/rubiks_cube3.png "шаг 3")
 
-![шаг 4](/images/rubiks_cube4.png "шаг 4")
+![шаг 4](../../images/rubiks_cube4.png "шаг 4")
 
-![шаг 5](/images/rubiks_cube5.png "шаг 5")
+![шаг 5](../../images/rubiks_cube5.png "шаг 5")
 
-![шаг 6](/images/rubiks_cube6.png "шаг 6")
+![шаг 6](../../images/rubiks_cube6.png "шаг 6")
 
-![шаг 7](/images/rubiks_cube7.png "шаг 7")
+![шаг 7](../../images/rubiks_cube7.png "шаг 7")
 
-![шаг 8](/images/rubiks_cube8.png "шаг 8")
+![шаг 8](../../images/rubiks_cube8.png "шаг 8")
 
 ---
 

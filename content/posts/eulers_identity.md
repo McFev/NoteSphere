@@ -11,7 +11,7 @@ categories:
 - notion
 ---
 
-![image](/images/eulers_identity.png "image")
+![image](../../images/eulers_identity.png "image")
 
 ---
 
