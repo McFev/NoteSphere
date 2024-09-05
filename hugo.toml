@@ -1,0 +1,29 @@
+baseURL = 'https://mcfev.github.io/NoteSphere/'
+languageCode = 'ru-RU'
+title = 'NoteSphere'
+theme = 'papermod'
+defaultContentLanguage = 'ru'
+enableemoji = true
+publishDir = "public"
+
+[params]
+env = "production"
+
+[params.homeInfoParams]
+Title = ":notebook: NoteSphere"
+Content = "Это мои заметки на NoteSphere – удобном и организованном пространстве для хранения. После ухода сервисов, таких как Evernote и Notion, я решил, что теперь они будут здесь, чтобы быть всегда под рукой."
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
