@@ -10,6 +10,7 @@ tags:
 - gangsta
 - underground
 - old school
+- rap
 categories:
 - evernote
 ---

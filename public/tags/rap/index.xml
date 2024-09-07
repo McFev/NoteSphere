@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rap on NoteSphere</title>
+    <link>http://localhost:1313/NoteSphere/tags/rap/</link>
+    <description>Recent content in Rap on NoteSphere</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Wed, 05 Nov 2014 00:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/NoteSphere/tags/rap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Стили рэпа</title>
+      <link>http://localhost:1313/NoteSphere/posts/rap_styles/</link>
+      <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/NoteSphere/posts/rap_styles/</guid>
+      <description>Old School Rap Old School Rap — этот стиль используется очень быстрыми rap музыкантами, которые были выходцами из New York City в конце 70-х – начале 80-х годов. Old school («старая школа») легко отличается от остальных направлений своим относительно упрощенным рэпом — большинство строк занимают примерно одинаковое время, а речевые ритмы редко изменяют направление по ходу битов композиции. Модуляция (понижение голоса) обычно точно попадает на бит, а когда такого не случается, то это не надолго,— звук возвращается в изначальную палитру для быстрого консонанса (согласования).</description>
+    </item>
+  </channel>
+</rss>
