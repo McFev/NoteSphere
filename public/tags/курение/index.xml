@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Курение on NoteSphere</title>
-    <link>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+    <link>http://localhost:1313/NoteSphere/tags/%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/</link>
     <description>Recent content in Курение on NoteSphere</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>ru-RU</language>
     <lastBuildDate>Fri, 27 Apr 2007 00:00:00 +0300</lastBuildDate>
-    <atom:link href="https://mcfev.github.io/NoteSphere/tags/%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/NoteSphere/tags/%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>О пользе курения (юмор)</title>
-      <link>https://mcfev.github.io/NoteSphere/posts/benefits_of_smoking/</link>
+      <link>http://localhost:1313/NoteSphere/posts/benefits_of_smoking/</link>
       <pubDate>Fri, 27 Apr 2007 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/posts/benefits_of_smoking/</guid>
+      <guid>http://localhost:1313/NoteSphere/posts/benefits_of_smoking/</guid>
       <description>Курение - физиологически необходимый для организма человека процесс. Никотин убивает 36 видов микробов, из них восемь вредных. Под действием никотина первыми погибают старые и ослабленные клетки головного мозга. Смолы, осаждаемые при курении на внутренней поверхности легких, затрудняют доступ воздуха к альвеолам, чем принуждают организм к благотворному усилению кровотока в лёгких. Без курения аналогичный эффект можно получить лишь интенсивными занятиями спортом или сложными дыхательными упражнениями. Сам по себе процесс затягивания дыма, а также кашель курильщика является естественной и необходимой дыхательной гимнастикой.</description>
     </item>
   </channel>

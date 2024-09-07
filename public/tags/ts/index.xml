@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TS on NoteSphere</title>
-    <link>https://mcfev.github.io/NoteSphere/tags/ts/</link>
+    <link>http://localhost:1313/NoteSphere/tags/ts/</link>
     <description>Recent content in TS on NoteSphere</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>ru-RU</language>
     <lastBuildDate>Sat, 09 Nov 2013 00:00:00 +0300</lastBuildDate>
-    <atom:link href="https://mcfev.github.io/NoteSphere/tags/ts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/NoteSphere/tags/ts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Расшифровки аббревиатур DVDRip, CAMRip, TS, TC, DVDSrc и т.д.</title>
-      <link>https://mcfev.github.io/NoteSphere/posts/abbreviations_rip/</link>
+      <link>http://localhost:1313/NoteSphere/posts/abbreviations_rip/</link>
       <pubDate>Sat, 09 Nov 2013 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/posts/abbreviations_rip/</guid>
+      <guid>http://localhost:1313/NoteSphere/posts/abbreviations_rip/</guid>
       <description>CAMRip (CAM) Иногда ошибочно помечают как Screen (SCR). Так называемая &amp;ldquo;экранка&amp;rdquo; или &amp;ldquo;тряпка&amp;rdquo;. Видео и звук записывают на камеру в зале кинотеатра. Изображение иногда может трястись, быть снятым под углом к экрану, в некоторых фильмах видны головы других кинозрителей и.т.д. Качество звука бывает разное, возможны помехи типа смеха публики. Обычно самое плохое и самое первое качество которое можна найти после оффициального релиза фильма.
 Telesync (TS) В идеале записывается с экрана професcиональной (цифровой) камерой, установленной на штатив в пустом кинотеатре либо в кабине оператора.</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Космос on NoteSphere</title>
-    <link>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81/</link>
+    <link>http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81/</link>
     <description>Recent content in Космос on NoteSphere</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>ru-RU</language>
     <lastBuildDate>Wed, 04 Feb 2015 00:00:00 +0300</lastBuildDate>
-    <atom:link href="https://mcfev.github.io/NoteSphere/tags/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Обнаружен сверхмассивный двойник Сатурна с огромными кольцами</title>
-      <link>https://mcfev.github.io/NoteSphere/posts/saturns_twin/</link>
+      <link>http://localhost:1313/NoteSphere/posts/saturns_twin/</link>
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/posts/saturns_twin/</guid>
+      <guid>http://localhost:1313/NoteSphere/posts/saturns_twin/</guid>
       <description>Астрономы из Нидерландов и США нашли у недавно открытой гигантской экзопланеты J1407 систему колец, масштабы которых в 200 раз больше таких образований у Сатурна.
 Объект был обнаружен еще в 2012 году, отмечается на сайте Рочестерского университета.
 Гигантская планета расположена на орбите звезды, которая отдалена от Солнца более чем на 400 световых лет (около 4 квадриллионов километров). Масса объекта J1407, согласно подсчетам, от 10 до 40 раз больше массы крупнейшей планеты Солнечной системы, Юпитера.</description>

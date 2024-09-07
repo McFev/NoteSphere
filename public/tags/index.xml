@@ -2,213 +2,220 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on NoteSphere</title>
-    <link>https://mcfev.github.io/NoteSphere/tags/</link>
+    <link>http://localhost:1313/NoteSphere/tags/</link>
     <description>Recent content in Tags on NoteSphere</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0300</lastBuildDate>
-    <atom:link href="https://mcfev.github.io/NoteSphere/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/NoteSphere/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Клавиатура</title>
+      <link>http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Кубик</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D1%83%D0%B1%D0%B8%D0%BA/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D0%BA%D1%83%D0%B1%D0%B8%D0%BA/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D1%83%D0%B1%D0%B8%D0%BA/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D0%BA%D1%83%D0%B1%D0%B8%D0%BA/</guid>
       <description></description>
     </item>
     <item>
       <title>Рубик</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D1%80%D1%83%D0%B1%D0%B8%D0%BA/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D1%80%D1%83%D0%B1%D0%B8%D0%BA/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D1%80%D1%83%D0%B1%D0%B8%D0%BA/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D1%80%D1%83%D0%B1%D0%B8%D0%BA/</guid>
       <description></description>
     </item>
     <item>
       <title>Calc</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/calc/</link>
+      <link>http://localhost:1313/NoteSphere/tags/calc/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/calc/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/calc/</guid>
       <description></description>
     </item>
     <item>
       <title>Krups</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/krups/</link>
+      <link>http://localhost:1313/NoteSphere/tags/krups/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/krups/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/krups/</guid>
       <description></description>
     </item>
     <item>
       <title>Кофемашина</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D0%BE%D1%84%D0%B5%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BE%D1%84%D0%B5%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D0%BE%D1%84%D0%B5%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BE%D1%84%D0%B5%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>Clean</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/clean/</link>
+      <link>http://localhost:1313/NoteSphere/tags/clean/</link>
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/clean/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/clean/</guid>
       <description></description>
     </item>
     <item>
       <title>Habr</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/habr/</link>
+      <link>http://localhost:1313/NoteSphere/tags/habr/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/habr/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/habr/</guid>
       <description></description>
     </item>
     <item>
       <title>Математика</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>Тождество Эйлера</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D1%82%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D1%8D%D0%B9%D0%BB%D0%B5%D1%80%D0%B0/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D1%82%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D1%8D%D0%B9%D0%BB%D0%B5%D1%80%D0%B0/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D1%82%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D1%8D%D0%B9%D0%BB%D0%B5%D1%80%D0%B0/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D1%82%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D1%8D%D0%B9%D0%BB%D0%B5%D1%80%D0%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>Xakep</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/xakep/</link>
+      <link>http://localhost:1313/NoteSphere/tags/xakep/</link>
       <pubDate>Tue, 02 May 2017 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/xakep/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/xakep/</guid>
       <description></description>
     </item>
     <item>
       <title>Юмор</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D1%8E%D0%BC%D0%BE%D1%80/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D1%8E%D0%BC%D0%BE%D1%80/</link>
       <pubDate>Tue, 02 May 2017 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D1%8E%D0%BC%D0%BE%D1%80/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D1%8E%D0%BC%D0%BE%D1%80/</guid>
       <description></description>
     </item>
     <item>
       <title>Имена</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0/</link>
       <pubDate>Fri, 10 Mar 2017 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>Двойник Сатурна</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA-%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B0/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA-%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B0/</link>
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA-%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B0/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA-%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>Космос</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81/</link>
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81/</guid>
       <description></description>
     </item>
     <item>
       <title>East Coast</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/east-coast/</link>
+      <link>http://localhost:1313/NoteSphere/tags/east-coast/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/east-coast/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/east-coast/</guid>
       <description></description>
     </item>
     <item>
       <title>Gangsta</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/gangsta/</link>
+      <link>http://localhost:1313/NoteSphere/tags/gangsta/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/gangsta/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/gangsta/</guid>
       <description></description>
     </item>
     <item>
       <title>Hip-Hop</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/hip-hop/</link>
+      <link>http://localhost:1313/NoteSphere/tags/hip-hop/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/hip-hop/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/hip-hop/</guid>
       <description></description>
     </item>
     <item>
       <title>Old School</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/old-school/</link>
+      <link>http://localhost:1313/NoteSphere/tags/old-school/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/old-school/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/old-school/</guid>
       <description></description>
     </item>
     <item>
       <title>Underground</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/underground/</link>
+      <link>http://localhost:1313/NoteSphere/tags/underground/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/underground/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/underground/</guid>
       <description></description>
     </item>
     <item>
       <title>Автомобиль</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C/</guid>
       <description></description>
     </item>
     <item>
       <title>Страна</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>Гарри Поттер</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D0%B3%D0%B0%D1%80%D1%80%D0%B8-%D0%BF%D0%BE%D1%82%D1%82%D0%B5%D1%80/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D0%B3%D0%B0%D1%80%D1%80%D0%B8-%D0%BF%D0%BE%D1%82%D1%82%D0%B5%D1%80/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D0%B3%D0%B0%D1%80%D1%80%D0%B8-%D0%BF%D0%BE%D1%82%D1%82%D0%B5%D1%80/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D0%B3%D0%B0%D1%80%D1%80%D0%B8-%D0%BF%D0%BE%D1%82%D1%82%D0%B5%D1%80/</guid>
       <description></description>
     </item>
     <item>
       <title>Фильм</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D1%84%D0%B8%D0%BB%D1%8C%D0%BC/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D1%84%D0%B8%D0%BB%D1%8C%D0%BC/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D1%84%D0%B8%D0%BB%D1%8C%D0%BC/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D1%84%D0%B8%D0%BB%D1%8C%D0%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>CAMRip</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/camrip/</link>
+      <link>http://localhost:1313/NoteSphere/tags/camrip/</link>
       <pubDate>Sat, 09 Nov 2013 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/camrip/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/camrip/</guid>
       <description></description>
     </item>
     <item>
       <title>DVDRip</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/dvdrip/</link>
+      <link>http://localhost:1313/NoteSphere/tags/dvdrip/</link>
       <pubDate>Sat, 09 Nov 2013 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/dvdrip/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/dvdrip/</guid>
       <description></description>
     </item>
     <item>
       <title>TS</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/ts/</link>
+      <link>http://localhost:1313/NoteSphere/tags/ts/</link>
       <pubDate>Sat, 09 Nov 2013 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/ts/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/ts/</guid>
       <description></description>
     </item>
     <item>
       <title>Расшифровка</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/</link>
       <pubDate>Sat, 09 Nov 2013 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>Солнечное Затмение</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5-%D0%B7%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5-%D0%B7%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5/</link>
       <pubDate>Tue, 13 Aug 2013 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5-%D0%B7%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5-%D0%B7%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
       <description></description>
     </item>
     <item>
       <title>Курение</title>
-      <link>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <link>http://localhost:1313/NoteSphere/tags/%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/</link>
       <pubDate>Fri, 27 Apr 2007 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
+      <guid>http://localhost:1313/NoteSphere/tags/%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
       <description></description>
     </item>
   </channel>

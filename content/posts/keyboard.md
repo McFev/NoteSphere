@@ -1,7 +1,7 @@
 ---
-title: 'Доп. клавиатура (25 keys)'
+title: '📝 Доп. клавиатура (25 keys)'
 date: 2024-02-13T00:00:00+03:00
-draft: true
+draft: false
 hideSummary: true
 ShowToc: true
 tags:

@@ -2,151 +2,157 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mcfev.github.io/NoteSphere/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/keyboard/</loc>
     <lastmod>2024-02-13T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/</loc>
+    <loc>http://localhost:1313/NoteSphere/categories/</loc>
     <lastmod>2024-02-13T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/categories/</loc>
+    <loc>http://localhost:1313/NoteSphere/</loc>
+    <lastmod>2024-02-13T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/NoteSphere/categories/notion/</loc>
+    <lastmod>2024-02-13T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/NoteSphere/posts/</loc>
+    <lastmod>2024-02-13T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/NoteSphere/tags/</loc>
+    <lastmod>2024-02-13T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0/</loc>
+    <lastmod>2024-02-13T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/NoteSphere/tags/%D0%BA%D1%83%D0%B1%D0%B8%D0%BA/</loc>
     <lastmod>2020-11-20T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/categories/notion/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/rubiks_cube/</loc>
     <lastmod>2020-11-20T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D1%80%D1%83%D0%B1%D0%B8%D0%BA/</loc>
     <lastmod>2020-11-20T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D1%83%D0%B1%D0%B8%D0%BA/</loc>
-    <lastmod>2020-11-20T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/rubiks_cube/</loc>
-    <lastmod>2020-11-20T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D1%80%D1%83%D0%B1%D0%B8%D0%BA/</loc>
-    <lastmod>2020-11-20T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/calc/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/calc/</loc>
     <lastmod>2020-03-10T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/krups/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/krups/</loc>
     <lastmod>2020-03-10T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D0%BE%D1%84%D0%B5%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BE%D1%84%D0%B5%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0/</loc>
     <lastmod>2020-03-10T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/krups_calc/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/krups_calc/</loc>
     <lastmod>2020-03-10T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/clean/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/clean/</loc>
     <lastmod>2020-03-09T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/krups_clean/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/krups_clean/</loc>
     <lastmod>2020-03-09T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/habr/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/habr/</loc>
     <lastmod>2019-07-02T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/</loc>
     <lastmod>2019-07-02T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/eulers_identity/</loc>
     <lastmod>2019-07-02T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D1%82%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D1%8D%D0%B9%D0%BB%D0%B5%D1%80%D0%B0/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D1%82%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D1%8D%D0%B9%D0%BB%D0%B5%D1%80%D0%B0/</loc>
     <lastmod>2019-07-02T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/categories/evernote/</loc>
+    <loc>http://localhost:1313/NoteSphere/categories/evernote/</loc>
     <lastmod>2017-05-02T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/xakep/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/xakep/</loc>
     <lastmod>2017-05-02T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D1%8E%D0%BC%D0%BE%D1%80/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D1%8E%D0%BC%D0%BE%D1%80/</loc>
     <lastmod>2017-05-02T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/humor/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/humor/</loc>
     <lastmod>2017-05-02T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0/</loc>
     <lastmod>2017-03-10T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/unusual_names/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/unusual_names/</loc>
     <lastmod>2017-03-10T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA-%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B0/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA-%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B0/</loc>
     <lastmod>2015-02-04T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81/</loc>
     <lastmod>2015-02-04T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/saturns_twin/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/saturns_twin/</loc>
     <lastmod>2015-02-04T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/east-coast/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/east-coast/</loc>
     <lastmod>2014-11-05T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/gangsta/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/gangsta/</loc>
     <lastmod>2014-11-05T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/hip-hop/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/hip-hop/</loc>
     <lastmod>2014-11-05T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/old-school/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/old-school/</loc>
     <lastmod>2014-11-05T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/underground/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/underground/</loc>
     <lastmod>2014-11-05T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C/</loc>
     <lastmod>2014-11-05T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/cars/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/cars/</loc>
     <lastmod>2014-11-05T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/rap_styles/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/rap_styles/</loc>
     <lastmod>2014-11-05T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0/</loc>
     <lastmod>2014-11-05T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D0%B3%D0%B0%D1%80%D1%80%D0%B8-%D0%BF%D0%BE%D1%82%D1%82%D0%B5%D1%80/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D0%B3%D0%B0%D1%80%D1%80%D0%B8-%D0%BF%D0%BE%D1%82%D1%82%D0%B5%D1%80/</loc>
     <lastmod>2013-11-10T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D1%84%D0%B8%D0%BB%D1%8C%D0%BC/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D1%84%D0%B8%D0%BB%D1%8C%D0%BC/</loc>
     <lastmod>2013-11-10T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/harry_potter/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/harry_potter/</loc>
     <lastmod>2013-11-10T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/camrip/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/camrip/</loc>
     <lastmod>2013-11-09T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/dvdrip/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/dvdrip/</loc>
     <lastmod>2013-11-09T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/ts/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/ts/</loc>
     <lastmod>2013-11-09T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/</loc>
     <lastmod>2013-11-09T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/abbreviations_rip/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/abbreviations_rip/</loc>
     <lastmod>2013-11-09T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/solar_eclipse_on_earth/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/solar_eclipse_on_earth/</loc>
     <lastmod>2013-08-13T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5-%D0%B7%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5-%D0%B7%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
     <lastmod>2013-08-13T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/beauty_of_mathematics/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/beauty_of_mathematics/</loc>
     <lastmod>2007-04-27T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/tags/%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
+    <loc>http://localhost:1313/NoteSphere/tags/%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
     <lastmod>2007-04-27T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://mcfev.github.io/NoteSphere/posts/benefits_of_smoking/</loc>
+    <loc>http://localhost:1313/NoteSphere/posts/benefits_of_smoking/</loc>
     <lastmod>2007-04-27T00:00:00+03:00</lastmod>
   </url>
 </urlset>

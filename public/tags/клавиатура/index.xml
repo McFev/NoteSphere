@@ -9,19 +9,19 @@
     <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Доп. клавиатура (25 keys)</title>
+      <title>:memo: Доп. клавиатура (25 keys)</title>
       <link>http://localhost:1313/NoteSphere/posts/keyboard/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/keyboard/</guid>
-      <description>25KEY QMK Json winry25tc.json
-winry25tc.json
-25 VIA JSON Winry25T_via.json
-Winry25T_via.json
-25 VIA HEX Winry25T_via.hex
-Winry25T_via.hex
+      <description>25KEY QMK Json &amp;#x1f4be; winry25tc.json
+&amp;#x1f4ce; winry25tc.json
+25 VIA JSON &amp;#x1f4be; Winry25T_via.json
+&amp;#x1f4ce; Winry25T_via.json
+25 VIA HEX &amp;#x1f4be; Winry25T_via.hex
+&amp;#x1f4ce; Winry25T_via.hex
 Выполните следующие шаги:
-Скачать программу VIA с официального сайта Загрузите файл VIA json с помощью Google Следуйте этому руководству пользователя, чтобы импортировать файл JSON VIAEnglish-.pdf
-VIAEnglish-.pdf</description>
+Скачать программу VIA с официального сайта Загрузите файл VIA json с помощью Google Следуйте этому руководству пользователя, чтобы импортировать файл JSON &amp;#x1f4be; VIAEnglish-.pdf
+&amp;#x1f4ce; VIAEnglish-.pdf</description>
     </item>
   </channel>
 </rss>
