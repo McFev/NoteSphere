@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Автомобиль on NoteSphere</title>
-    <link>http://localhost:1313/NoteSphere/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C/</link>
+    <link>https://mcfev.github.io/NoteSphere/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C/</link>
     <description>Recent content in Автомобиль on NoteSphere</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>ru-RU</language>
     <lastBuildDate>Wed, 05 Nov 2014 00:00:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/NoteSphere/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mcfev.github.io/NoteSphere/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В какой стране какой автомобиль</title>
-      <link>http://localhost:1313/NoteSphere/posts/cars/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/cars/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/cars/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/cars/</guid>
       <description>Россия ВАЗ, ВИС, ГАЗ, Донинвест, ЗАЗ, ЗИЛ, ИЖ, КАМАЗ, Москвич, СеАЗ, УАЗ, Урал, Derways.
 Великобритания AC, Aston Martin, Austin, Bedford, Bentley, Daimler, Jaguar, Land Rover, Lotus, MINI, Morgan, Rolls-Royce, Rover.
 Германия Audi, BMW, Hymer, MAN, Maybach, Mercedes-Benz, Opel, Porsche, Puch, Smart, Trabant, Volkswagen.

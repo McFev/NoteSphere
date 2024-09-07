@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Клавиатура on NoteSphere</title>
+    <link>http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0/</link>
+    <description>Recent content in Клавиатура on NoteSphere</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Доп. клавиатура (25 keys)</title>
+      <link>http://localhost:1313/NoteSphere/posts/keyboard/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/NoteSphere/posts/keyboard/</guid>
+      <description>25KEY QMK Json winry25tc.json
+winry25tc.json
+25 VIA JSON Winry25T_via.json
+Winry25T_via.json
+25 VIA HEX Winry25T_via.hex
+Winry25T_via.hex
+Выполните следующие шаги:
+Скачать программу VIA с официального сайта Загрузите файл VIA json с помощью Google Следуйте этому руководству пользователя, чтобы импортировать файл JSON VIAEnglish-.pdf
+VIAEnglish-.pdf</description>
+    </item>
+  </channel>
+</rss>

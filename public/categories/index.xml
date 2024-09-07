@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on NoteSphere</title>
-    <link>http://localhost:1313/NoteSphere/categories/</link>
+    <link>https://mcfev.github.io/NoteSphere/categories/</link>
     <description>Recent content in Categories on NoteSphere</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>ru-RU</language>
     <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/NoteSphere/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mcfev.github.io/NoteSphere/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notion</title>
-      <link>http://localhost:1313/NoteSphere/categories/notion/</link>
+      <link>https://mcfev.github.io/NoteSphere/categories/notion/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/categories/notion/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/categories/notion/</guid>
       <description></description>
     </item>
     <item>
       <title>Evernote</title>
-      <link>http://localhost:1313/NoteSphere/categories/evernote/</link>
+      <link>https://mcfev.github.io/NoteSphere/categories/evernote/</link>
       <pubDate>Tue, 02 May 2017 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/categories/evernote/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/categories/evernote/</guid>
       <description></description>
     </item>
   </channel>
