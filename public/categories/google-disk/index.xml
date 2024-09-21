@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Google Disk on NoteSphere</title>
+    <link>http://localhost:1313/NoteSphere/categories/google-disk/</link>
+    <description>Recent content in Google Disk on NoteSphere</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Sun, 10 Nov 2013 00:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/NoteSphere/categories/google-disk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Этот сложный русский язык...⁠⁠</title>
+      <link>http://localhost:1313/NoteSphere/posts/russian_language/</link>
+      <pubDate>Sun, 10 Nov 2013 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/NoteSphere/posts/russian_language/</guid>
+      <description>Перед нами стол. На столе стакан и вилка. Что они делают? Стакан стоит, а вилка лежит. Если мы воткнем вилку в столешницу, вилка будет стоять. Т. е. стоят вертикальные предметы, а лежат горизонтальные? Добавляем на стол тарелку и сковороду. Они вроде как горизонтальные, но на столе стоят. Теперь положим тарелку в сковородку. Там она лежит, а ведь на столе стояла. Может быть, стоят предметы, готовые к использованию? Нет, вилка-то готова была, когда лежала.</description>
+    </item>
+  </channel>
+</rss>

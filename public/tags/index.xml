@@ -142,6 +142,13 @@
       <description></description>
     </item>
     <item>
+      <title>Rap</title>
+      <link>http://localhost:1313/NoteSphere/tags/rap/</link>
+      <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/NoteSphere/tags/rap/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Underground</title>
       <link>http://localhost:1313/NoteSphere/tags/underground/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
@@ -167,6 +174,13 @@
       <link>http://localhost:1313/NoteSphere/tags/%D0%B3%D0%B0%D1%80%D1%80%D0%B8-%D0%BF%D0%BE%D1%82%D1%82%D0%B5%D1%80/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/tags/%D0%B3%D0%B0%D1%80%D1%80%D0%B8-%D0%BF%D0%BE%D1%82%D1%82%D0%B5%D1%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Русский Язык</title>
+      <link>http://localhost:1313/NoteSphere/tags/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/</link>
+      <pubDate>Sun, 10 Nov 2013 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/NoteSphere/tags/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/</guid>
       <description></description>
     </item>
     <item>
