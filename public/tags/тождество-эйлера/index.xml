@@ -4,7 +4,7 @@
     <title>Тождество Эйлера on NoteSphere</title>
     <link>http://localhost:1313/NoteSphere/tags/%D1%82%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D1%8D%D0%B9%D0%BB%D0%B5%D1%80%D0%B0/</link>
     <description>Recent content in Тождество Эйлера on NoteSphere</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/NoteSphere/tags/%D1%82%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D1%8D%D0%B9%D0%BB%D0%B5%D1%80%D0%B0/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,10 @@
       <link>http://localhost:1313/NoteSphere/posts/eulers_identity/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/eulers_identity/</guid>
-      <description>&amp;#x1f517; источник</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/eulers_identity.png&#34; alt=&#34;image&#34;  title=&#34;image&#34;  /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/post/454136/&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

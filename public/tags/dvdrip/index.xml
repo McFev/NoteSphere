@@ -4,7 +4,7 @@
     <title>DVDRip on NoteSphere</title>
     <link>http://localhost:1313/NoteSphere/tags/dvdrip/</link>
     <description>Recent content in DVDRip on NoteSphere</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>ru-RU</language>
     <lastBuildDate>Sat, 09 Nov 2013 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/NoteSphere/tags/dvdrip/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,10 @@
       <link>http://localhost:1313/NoteSphere/posts/abbreviations_rip/</link>
       <pubDate>Sat, 09 Nov 2013 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/abbreviations_rip/</guid>
-      <description>CAMRip (CAM) Иногда ошибочно помечают как Screen (SCR). Так называемая &amp;ldquo;экранка&amp;rdquo; или &amp;ldquo;тряпка&amp;rdquo;. Видео и звук записывают на камеру в зале кинотеатра. Изображение иногда может трястись, быть снятым под углом к экрану, в некоторых фильмах видны головы других кинозрителей и.т.д. Качество звука бывает разное, возможны помехи типа смеха публики. Обычно самое плохое и самое первое качество которое можно найти после официального релиза фильма.
-Telesync (TS) В идеале записывается с экрана професcиональной (цифровой) камерой, установленной на штатив в пустом кинотеатре либо в кабине оператора.</description>
+      <description>&lt;h2 id=&#34;camrip-cam&#34;&gt;CAMRip (CAM)&lt;/h2&gt;
+&lt;p&gt;Иногда ошибочно помечают как Screen (SCR). Так называемая &amp;ldquo;экранка&amp;rdquo; или &amp;ldquo;тряпка&amp;rdquo;. Видео и звук записывают на камеру в зале кинотеатра. Изображение иногда может трястись, быть снятым под углом к экрану, в некоторых фильмах видны головы других кинозрителей и.т.д. Качество звука бывает разное, возможны помехи типа смеха публики. Обычно самое плохое и самое первое качество которое можно найти после официального релиза фильма.&lt;/p&gt;
+&lt;h2 id=&#34;telesync-ts&#34;&gt;Telesync (TS)&lt;/h2&gt;
+&lt;p&gt;В идеале записывается с экрана професcиональной (цифровой) камерой, установленной на штатив в пустом кинотеатре либо в кабине оператора. Качество видео намного лучше, чем в CAMRip. Звук записывается на прямую с проектора или с другого отдельного выхода, например гнезда для наушников в кресле. Звук таким образом получается очень хороший и без помех. Как правило звук в режиме стерео. Много TS - это в действительности CAMRip, у которых перепутали название.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Notion on NoteSphere</title>
     <link>http://localhost:1313/NoteSphere/categories/notion/</link>
     <description>Recent content in Notion on NoteSphere</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/NoteSphere/categories/notion/index.xml" rel="self" type="application/rss+xml" />
@@ -13,49 +13,86 @@
       <link>http://localhost:1313/NoteSphere/posts/keyboard/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/keyboard/</guid>
-      <description>25KEY QMK Json &amp;#x1f4be; winry25tc.json
-&amp;#x1f4ce; winry25tc.json
-25 VIA JSON &amp;#x1f4be; Winry25T_via.json
-&amp;#x1f4ce; Winry25T_via.json
-25 VIA HEX &amp;#x1f4be; Winry25T_via.hex
-&amp;#x1f4ce; Winry25T_via.hex
-Выполните следующие шаги:
-Скачать программу VIA с официального сайта Загрузите файл VIA json с помощью Google Следуйте этому руководству пользователя, чтобы импортировать файл JSON &amp;#x1f4be; VIAEnglish-.pdf
-&amp;#x1f4ce; VIAEnglish-.pdf</description>
+      <description>&lt;h2 id=&#34;25key-qmk-json&#34;&gt;25KEY QMK Json&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1eUE0M8cn2ncafuZHglho2dna2Rbtsu4b/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; winry25tc.json&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/keyboard_winry25tc.json&#34; download&gt;&amp;#x1f4ce; winry25tc.json&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;25-via-json&#34;&gt;25 VIA JSON&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1g8FQJqsXfv5QWmUL02TbGNAPrH1Z3PGh/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; Winry25T_via.json&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/keyboard_Winry25T_via.json&#34; download&gt;&amp;#x1f4ce; Winry25T_via.json&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;25-via-hex&#34;&gt;25 VIA HEX&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1JEtuQA9Vjb9gTB_1GEe3frS6-fuASrNC/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; Winry25T_via.hex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/keyboard_Winry25T_via.hex&#34; download&gt;&amp;#x1f4ce; Winry25T_via.hex&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Выполните следующие шаги:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Скачать программу VIA с &lt;a href=&#34;https://caniusevia.com/&#34;&gt;официального сайта&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Загрузите файл VIA json с помощью Google&lt;/li&gt;
+&lt;li&gt;Следуйте этому руководству пользователя, чтобы импортировать файл JSON&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1SUOttEv8vljwHwYybOJ1XY1b3R_gl-L2/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; VIAEnglish-.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/keyboard_VIAEnglish-.pdf&#34;&gt;&amp;#x1f4ce; VIAEnglish-.pdf&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Кубик Рубика</title>
       <link>http://localhost:1313/NoteSphere/posts/rubiks_cube/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/rubiks_cube/</guid>
-      <description>&amp;#x1f517; источник
-r/nextfuckinglevel Четыре самых простых способа собрать кубик Рубика. Сохраняем и используем! так не работает, есть невращающиеся части</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube1.png&#34; alt=&#34;шаг 1&#34;  title=&#34;шаг 1&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube2.png&#34; alt=&#34;шаг 2&#34;  title=&#34;шаг 2&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube3.png&#34; alt=&#34;шаг 3&#34;  title=&#34;шаг 3&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube4.png&#34; alt=&#34;шаг 4&#34;  title=&#34;шаг 4&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube5.png&#34; alt=&#34;шаг 5&#34;  title=&#34;шаг 5&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube6.png&#34; alt=&#34;шаг 6&#34;  title=&#34;шаг 6&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube7.png&#34; alt=&#34;шаг 7&#34;  title=&#34;шаг 7&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube8.png&#34; alt=&#34;шаг 8&#34;  title=&#34;шаг 8&#34;  /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://welday.org/blog/interesting/rubiks-cube/&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://t.me/Reddit/29552&#34;&gt;r/nextfuckinglevel&lt;/a&gt;
+&lt;del&gt;Четыре самых простых способа собрать кубик Рубика. Сохраняем и используем!&lt;/del&gt; &lt;strong&gt;так не работает, есть невращающиеся части&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Программа удаления накипи (CALC) — полная длительность: ~20 минут</title>
       <link>http://localhost:1313/NoteSphere/posts/krups_calc/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/krups_calc/</guid>
-      <description>Количество накипи зависит от жесткости используемой воды. Прибор предупредит вас о необходимости проведения удаления накипи миганием светового индикатора «Накипь» (‘CALC’).
-Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке.
-⚠️ Для соблюдения гарантийных условий необходимо выполнять цикл удаления накипи, когда прибор этого требует. Старайтесь соблюдать правильный порядок проведения операций. Когда индикатор горит, вы можете продолжать использовать устройство, но желательно выполнить программу как можно быстрее.
-Если на вашей кофемашине установлен фильтр для воды Claris - Aqua Filter System F088, не забудьте снять его перед проведением цикла удаления накипи.</description>
+      <description>&lt;p&gt;Количество накипи зависит от жесткости используемой воды. Прибор предупредит вас о необходимости проведения удаления накипи миганием светового индикатора «Накипь» (&lt;strong&gt;‘CALC’&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;Для соблюдения гарантийных условий необходимо выполнять цикл удаления накипи, когда прибор этого требует. Старайтесь соблюдать правильный порядок проведения операций. Когда индикатор горит, вы можете продолжать использовать устройство, но желательно выполнить программу как можно быстрее.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Если на вашей кофемашине установлен фильтр для воды Claris - Aqua Filter System F088, не забудьте снять его перед проведением цикла удаления накипи.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Программа чистки (CLEAN) — полная длительность: ~13 минут</title>
       <link>http://localhost:1313/NoteSphere/posts/krups_clean/</link>
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/krups_clean/</guid>
-      <description>Прибор предупредит Вас о необходимости проведения очистки миганием светового индикатора «Очистка» (‘CLEAN’). Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке (приблизительно после 300 рабочих циклов приготовления кофе или эспрессо).
-⚠️ Для соблюдения гарантийных условий необходимо выполнять цикл очистки прибора, когда он этого требует. Старайтесь соблюдать правильный порядок проведения операций.
-Используйте только таблетки для очистки KRUPS. Вы можете приобрести изделия для очистки в сервисных центрах фирмы KRUPS.</description>
+      <description>&lt;p&gt;Прибор предупредит Вас о необходимости проведения очистки миганием светового индикатора «Очистка» (‘&lt;strong&gt;CLEAN&lt;/strong&gt;’). Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке (приблизительно после 300 рабочих циклов приготовления кофе или эспрессо).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;Для соблюдения гарантийных условий необходимо выполнять цикл очистки прибора, когда он этого требует. Старайтесь соблюдать правильный порядок проведения операций.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Используйте только таблетки для очистки KRUPS. Вы можете приобрести изделия для очистки в сервисных центрах фирмы KRUPS.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Самая красивая теорема математики: тождество Эйлера</title>
       <link>http://localhost:1313/NoteSphere/posts/eulers_identity/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/eulers_identity/</guid>
-      <description>&amp;#x1f517; источник</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/eulers_identity.png&#34; alt=&#34;image&#34;  title=&#34;image&#34;  /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/post/454136/&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -29,4 +29,4 @@ cover:
 
 ---
 
-[:link: источник](http://nv.ua/techno/science/obnaruzhen-sverhmassivnyy-dvoynik-saturna-s-ogromnymi-kolcami-31635.html), [:card_index_dividers: архив](https://web.archive.org/web/20160126033918/http://nv.ua/techno/science/obnaruzhen-sverhmassivnyy-dvoynik-saturna-s-ogromnymi-kolcami-31635.html)
+[:link: источник](http://nv.ua/techno/science/obnaruzhen-sverhmassivnyy-dvoynik-saturna-s-ogromnymi-kolcami-31635.html), ~~[:card_index_dividers: архив](https://web.archive.org/web/20160126033918/http://nv.ua/techno/science/obnaruzhen-sverhmassivnyy-dvoynik-saturna-s-ogromnymi-kolcami-31635.html)~~

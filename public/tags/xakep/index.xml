@@ -4,7 +4,7 @@
     <title>Xakep on NoteSphere</title>
     <link>http://localhost:1313/NoteSphere/tags/xakep/</link>
     <description>Recent content in Xakep on NoteSphere</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 02 May 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/NoteSphere/tags/xakep/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,26 @@
       <link>http://localhost:1313/NoteSphere/posts/humor/</link>
       <pubDate>Tue, 02 May 2017 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/humor/</guid>
-      <description> Сайт Ссылка Если бы плотников нанимали так же, как программистов Хакер в столовой </description>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Сайт&lt;/th&gt;
+          &lt;th&gt;Ссылка&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/habr.png&#34; alt=&#34;habr&#34;  title=&#34;habr&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://habr.com/ru/articles/285570/&#34;&gt;Если бы плотников нанимали так же, как программистов&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/xakep.png&#34; alt=&#34;xakep&#34;  title=&#34;xakep&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://xakep.ru/2006/12/16/35784/&#34;&gt;Хакер в столовой&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>

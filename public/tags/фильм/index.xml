@@ -4,7 +4,7 @@
     <title>Фильм on NoteSphere</title>
     <link>http://localhost:1313/NoteSphere/tags/%D1%84%D0%B8%D0%BB%D1%8C%D0%BC/</link>
     <description>Recent content in Фильм on NoteSphere</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>ru-RU</language>
     <lastBuildDate>Sun, 10 Nov 2013 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/NoteSphere/tags/%D1%84%D0%B8%D0%BB%D1%8C%D0%BC/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,16 @@
       <link>http://localhost:1313/NoteSphere/posts/harry_potter/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/harry_potter/</guid>
-      <description> Гарри Поттер и философский камень (2001) Гарри Поттер и Тайная комната (2002) Гарри Поттер и узник Азкабана (2004) Гарри Поттер и Кубок Огня (2005) Гарри Поттер и Орден Феникса (2007) Гарри Поттер и Принц-полукровка (2009) Гарри Поттер и Дары Смерти: часть 1 (2010) Гарри Поттер и Дары Смерти: часть 2 (2011) </description>
+      <description>&lt;ol&gt;
+&lt;li&gt;Гарри Поттер и философский камень (2001)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и Тайная комната (2002)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и узник Азкабана (2004)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и Кубок Огня (2005)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и Орден Феникса (2007)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и Принц-полукровка (2009)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и Дары Смерти: часть 1 (2010)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и Дары Смерти: часть 2 (2011)&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

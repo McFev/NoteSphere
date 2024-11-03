@@ -4,7 +4,7 @@
     <title>Имена on NoteSphere</title>
     <link>http://localhost:1313/NoteSphere/tags/%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0/</link>
     <description>Recent content in Имена on NoteSphere</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>ru-RU</language>
     <lastBuildDate>Fri, 10 Mar 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/NoteSphere/tags/%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0/index.xml" rel="self" type="application/rss+xml" />
@@ -13,33 +13,124 @@
       <link>http://localhost:1313/NoteSphere/posts/unusual_names/</link>
       <pubDate>Fri, 10 Mar 2017 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/unusual_names/</guid>
-      <description>Год Мальчики Девочки 1998 Услада 1999 Полина-Полина 2000 Дмитрий-Аметист
-Матвей-Радуга
-Николай-Никита-Нил 2002 Граф
-Дар 2003 Иван-Коловрат 2004 Голуба 2005 Меркурий Апрель
-Вишня
-Индия 2006 Кантогор-Егор
-Март
-Христамрирадос Принцесса Даниэлла
-Росияна 2007 Князь
-Принц
-Космос Россия 2008 Ангел
-Ветер
-Воля
-Дельфин
-Ярослав-Лютобор Заря-Заряница
-Луна
-Ляля 2009 Илья Богодар
-Каспер Ненаглядный Ангел Мария
-Луналика
-Принцесса Анжелина 2010 Архип-Урал
-Еремей Покровитель
-Кит
-Лука-Счастье Саммерсет Оушен
-Мононо Никита
-Огнеслав Алёша-Каприна
-Океана
-Радость 2012 Ангел</description>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Год&lt;/th&gt;
+          &lt;th&gt;Мальчики&lt;/th&gt;
+          &lt;th&gt;Девочки&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1998&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Услада&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1999&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Полина-Полина&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2000&lt;/td&gt;
+          &lt;td&gt;Дмитрий-Аметист&lt;br&gt; Матвей-Радуга&lt;br&gt; Николай-Никита-Нил&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2002&lt;/td&gt;
+          &lt;td&gt;Граф&lt;br&gt; Дар&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2003&lt;/td&gt;
+          &lt;td&gt;Иван-Коловрат&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2004&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Голуба&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2005&lt;/td&gt;
+          &lt;td&gt;Меркурий&lt;/td&gt;
+          &lt;td&gt;Апрель&lt;br&gt; Вишня&lt;br&gt; Индия&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2006&lt;/td&gt;
+          &lt;td&gt;Кантогор-Егор&lt;br&gt; Март&lt;br&gt; Христамрирадос&lt;/td&gt;
+          &lt;td&gt;Принцесса Даниэлла&lt;br&gt; Росияна&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2007&lt;/td&gt;
+          &lt;td&gt;Князь&lt;br&gt; Принц&lt;br&gt; Космос&lt;/td&gt;
+          &lt;td&gt;Россия&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2008&lt;/td&gt;
+          &lt;td&gt;Ангел&lt;br&gt; Ветер&lt;br&gt; Воля&lt;br&gt; Дельфин&lt;br&gt; Ярослав-Лютобор&lt;/td&gt;
+          &lt;td&gt;Заря-Заряница&lt;br&gt; Луна&lt;br&gt; Ляля&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2009&lt;/td&gt;
+          &lt;td&gt;Илья Богодар&lt;br&gt; Каспер Ненаглядный&lt;/td&gt;
+          &lt;td&gt;Ангел Мария&lt;br&gt; Луналика&lt;br&gt; Принцесса Анжелина&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2010&lt;/td&gt;
+          &lt;td&gt;Архип-Урал&lt;br&gt; Еремей Покровитель&lt;br&gt; Кит&lt;br&gt; Лука-Счастье Саммерсет Оушен&lt;br&gt; Мононо Никита&lt;br&gt; Огнеслав&lt;/td&gt;
+          &lt;td&gt;Алёша-Каприна&lt;br&gt; Океана&lt;br&gt; Радость&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2012&lt;/td&gt;
+          &lt;td&gt;Ангел&lt;br&gt; Будда-Александр&lt;br&gt; Господин&lt;br&gt; Мир&lt;br&gt; Принц&lt;br&gt; Саша-Александр&lt;/td&gt;
+          &lt;td&gt;Алёна-Цветочек&lt;br&gt; Дельфина&lt;br&gt; Лиса&lt;br&gt; Радостина&lt;br&gt; Россия&lt;br&gt; София-Солнышко&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2013&lt;/td&gt;
+          &lt;td&gt;Ангел&lt;br&gt; Космос&lt;br&gt; Максим-Москва&lt;br&gt; Мир&lt;br&gt; Огнеслав&lt;br&gt; Океан&lt;br&gt; Скай&lt;/td&gt;
+          &lt;td&gt;Алиса-Нефертити&lt;br&gt; Легенда&lt;br&gt; Лёля&lt;br&gt; Ляля&lt;br&gt; Радость&lt;br&gt; Челси&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2014&lt;/td&gt;
+          &lt;td&gt;Джаз&lt;br&gt; Рассвет&lt;br&gt; Севастополь&lt;br&gt; Сила&lt;/td&gt;
+          &lt;td&gt;Византия&lt;br&gt; Луна&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2015&lt;/td&gt;
+          &lt;td&gt;Меркурий&lt;/td&gt;
+          &lt;td&gt;Радость&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2016&lt;/td&gt;
+          &lt;td&gt;Цезарь&lt;br&gt; Варфоломей&lt;br&gt; Евстигней&lt;/td&gt;
+          &lt;td&gt;Купава&lt;br&gt; Всеслава&lt;br&gt; Агата Мария&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2017&lt;/td&gt;
+          &lt;td&gt;Форвард&lt;br&gt; Норд&lt;br&gt; Франклин&lt;br&gt; Орфей&lt;br&gt; Велесвет&lt;br&gt; Ладомир&lt;br&gt; Патрикей&lt;br&gt; Харлампий&lt;/td&gt;
+          &lt;td&gt;Дорофея&lt;br&gt; Васса&lt;br&gt; Исидора&lt;br&gt; Златозара&lt;br&gt; Ладислава&lt;br&gt; Аграфена&lt;br&gt; Искра&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2018&lt;/td&gt;
+          &lt;td&gt;Филл&lt;br&gt; Устин&lt;br&gt; Мартин&lt;br&gt; Пахом&lt;br&gt; Данислав&lt;br&gt; Марсель&lt;br&gt; Пересвет&lt;br&gt; Добрыня&lt;/td&gt;
+          &lt;td&gt;Адель-Иллария&lt;br&gt; Виктория Луна&lt;br&gt; Леонида&lt;br&gt; Ия&lt;br&gt; Александра Джейн&lt;br&gt; Капитолина&lt;br&gt; Радомира&lt;br&gt; Линда&lt;br&gt; Августина&lt;br&gt; Доминика&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2019&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Арья&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020&lt;/td&gt;
+          &lt;td&gt;Космос&lt;br&gt; Люцифер&lt;br&gt; Июлиан&lt;br&gt; Александр-Север&lt;br&gt; Ермак-Александр&lt;br&gt; Лев-Моисей&lt;br&gt; Людвиг-Александр&lt;br&gt; Кай&lt;br&gt; Бельчонок&lt;/td&gt;
+          &lt;td&gt;Радость&lt;br&gt; Мадонна&lt;br&gt; Агриппина&lt;br&gt; Любомила&lt;br&gt; Венера-Вероника&lt;br&gt; Патрисия-Деметра-Пейдж&lt;br&gt; Алмаз&lt;br&gt; Тереза&lt;br&gt; Вишня&lt;br&gt; Олимпина&lt;br&gt; Аркадия&lt;br&gt; Арсения&lt;br&gt; Георгия&lt;br&gt; Маруся&lt;br&gt; Настасья&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://zags.mos.ru/stat/imena/neobychnye_imena.php&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;, &lt;a href=&#34;https://web.archive.org/web/20170304081625/http://zags.mos.ru:80/stat/imena/neobychnye_imena.php&#34;&gt;&amp;#x1f5c2;&amp;#xfe0f; архив&lt;/a&gt;, &lt;a href=&#34;https://materinstvo.ru/art/neobychnye_imena?ysclid=m0nid71x864890940&#34;&gt;&amp;#x1f517; источник 2&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

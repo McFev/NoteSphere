@@ -4,7 +4,7 @@
     <title>Клавиатура on NoteSphere</title>
     <link>http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0/</link>
     <description>Recent content in Клавиатура on NoteSphere</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/NoteSphere/tags/%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0/index.xml" rel="self" type="application/rss+xml" />
@@ -13,15 +13,24 @@
       <link>http://localhost:1313/NoteSphere/posts/keyboard/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/keyboard/</guid>
-      <description>25KEY QMK Json &amp;#x1f4be; winry25tc.json
-&amp;#x1f4ce; winry25tc.json
-25 VIA JSON &amp;#x1f4be; Winry25T_via.json
-&amp;#x1f4ce; Winry25T_via.json
-25 VIA HEX &amp;#x1f4be; Winry25T_via.hex
-&amp;#x1f4ce; Winry25T_via.hex
-Выполните следующие шаги:
-Скачать программу VIA с официального сайта Загрузите файл VIA json с помощью Google Следуйте этому руководству пользователя, чтобы импортировать файл JSON &amp;#x1f4be; VIAEnglish-.pdf
-&amp;#x1f4ce; VIAEnglish-.pdf</description>
+      <description>&lt;h2 id=&#34;25key-qmk-json&#34;&gt;25KEY QMK Json&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1eUE0M8cn2ncafuZHglho2dna2Rbtsu4b/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; winry25tc.json&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/keyboard_winry25tc.json&#34; download&gt;&amp;#x1f4ce; winry25tc.json&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;25-via-json&#34;&gt;25 VIA JSON&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1g8FQJqsXfv5QWmUL02TbGNAPrH1Z3PGh/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; Winry25T_via.json&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/keyboard_Winry25T_via.json&#34; download&gt;&amp;#x1f4ce; Winry25T_via.json&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;25-via-hex&#34;&gt;25 VIA HEX&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1JEtuQA9Vjb9gTB_1GEe3frS6-fuASrNC/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; Winry25T_via.hex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/keyboard_Winry25T_via.hex&#34; download&gt;&amp;#x1f4ce; Winry25T_via.hex&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Выполните следующие шаги:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Скачать программу VIA с &lt;a href=&#34;https://caniusevia.com/&#34;&gt;официального сайта&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Загрузите файл VIA json с помощью Google&lt;/li&gt;
+&lt;li&gt;Следуйте этому руководству пользователя, чтобы импортировать файл JSON&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1SUOttEv8vljwHwYybOJ1XY1b3R_gl-L2/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; VIAEnglish-.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/keyboard_VIAEnglish-.pdf&#34;&gt;&amp;#x1f4ce; VIAEnglish-.pdf&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

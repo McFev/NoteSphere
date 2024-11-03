@@ -4,7 +4,7 @@
     <title>Posts on NoteSphere</title>
     <link>http://localhost:1313/NoteSphere/posts/</link>
     <description>Recent content in Posts on NoteSphere</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/NoteSphere/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,171 +13,341 @@
       <link>http://localhost:1313/NoteSphere/posts/keyboard/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/keyboard/</guid>
-      <description>25KEY QMK Json &amp;#x1f4be; winry25tc.json
-&amp;#x1f4ce; winry25tc.json
-25 VIA JSON &amp;#x1f4be; Winry25T_via.json
-&amp;#x1f4ce; Winry25T_via.json
-25 VIA HEX &amp;#x1f4be; Winry25T_via.hex
-&amp;#x1f4ce; Winry25T_via.hex
-Выполните следующие шаги:
-Скачать программу VIA с официального сайта Загрузите файл VIA json с помощью Google Следуйте этому руководству пользователя, чтобы импортировать файл JSON &amp;#x1f4be; VIAEnglish-.pdf
-&amp;#x1f4ce; VIAEnglish-.pdf</description>
+      <description>&lt;h2 id=&#34;25key-qmk-json&#34;&gt;25KEY QMK Json&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1eUE0M8cn2ncafuZHglho2dna2Rbtsu4b/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; winry25tc.json&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/keyboard_winry25tc.json&#34; download&gt;&amp;#x1f4ce; winry25tc.json&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;25-via-json&#34;&gt;25 VIA JSON&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1g8FQJqsXfv5QWmUL02TbGNAPrH1Z3PGh/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; Winry25T_via.json&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/keyboard_Winry25T_via.json&#34; download&gt;&amp;#x1f4ce; Winry25T_via.json&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;25-via-hex&#34;&gt;25 VIA HEX&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1JEtuQA9Vjb9gTB_1GEe3frS6-fuASrNC/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; Winry25T_via.hex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/keyboard_Winry25T_via.hex&#34; download&gt;&amp;#x1f4ce; Winry25T_via.hex&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Выполните следующие шаги:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Скачать программу VIA с &lt;a href=&#34;https://caniusevia.com/&#34;&gt;официального сайта&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Загрузите файл VIA json с помощью Google&lt;/li&gt;
+&lt;li&gt;Следуйте этому руководству пользователя, чтобы импортировать файл JSON&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1SUOttEv8vljwHwYybOJ1XY1b3R_gl-L2/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; VIAEnglish-.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../files/keyboard_VIAEnglish-.pdf&#34;&gt;&amp;#x1f4ce; VIAEnglish-.pdf&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Кубик Рубика</title>
       <link>http://localhost:1313/NoteSphere/posts/rubiks_cube/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/rubiks_cube/</guid>
-      <description>&amp;#x1f517; источник
-r/nextfuckinglevel Четыре самых простых способа собрать кубик Рубика. Сохраняем и используем! так не работает, есть невращающиеся части</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube1.png&#34; alt=&#34;шаг 1&#34;  title=&#34;шаг 1&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube2.png&#34; alt=&#34;шаг 2&#34;  title=&#34;шаг 2&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube3.png&#34; alt=&#34;шаг 3&#34;  title=&#34;шаг 3&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube4.png&#34; alt=&#34;шаг 4&#34;  title=&#34;шаг 4&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube5.png&#34; alt=&#34;шаг 5&#34;  title=&#34;шаг 5&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube6.png&#34; alt=&#34;шаг 6&#34;  title=&#34;шаг 6&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube7.png&#34; alt=&#34;шаг 7&#34;  title=&#34;шаг 7&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube8.png&#34; alt=&#34;шаг 8&#34;  title=&#34;шаг 8&#34;  /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://welday.org/blog/interesting/rubiks-cube/&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://t.me/Reddit/29552&#34;&gt;r/nextfuckinglevel&lt;/a&gt;
+&lt;del&gt;Четыре самых простых способа собрать кубик Рубика. Сохраняем и используем!&lt;/del&gt; &lt;strong&gt;так не работает, есть невращающиеся части&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Программа удаления накипи (CALC) — полная длительность: ~20 минут</title>
       <link>http://localhost:1313/NoteSphere/posts/krups_calc/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/krups_calc/</guid>
-      <description>Количество накипи зависит от жесткости используемой воды. Прибор предупредит вас о необходимости проведения удаления накипи миганием светового индикатора «Накипь» (‘CALC’).
-Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке.
-⚠️ Для соблюдения гарантийных условий необходимо выполнять цикл удаления накипи, когда прибор этого требует. Старайтесь соблюдать правильный порядок проведения операций. Когда индикатор горит, вы можете продолжать использовать устройство, но желательно выполнить программу как можно быстрее.
-Если на вашей кофемашине установлен фильтр для воды Claris - Aqua Filter System F088, не забудьте снять его перед проведением цикла удаления накипи.</description>
+      <description>&lt;p&gt;Количество накипи зависит от жесткости используемой воды. Прибор предупредит вас о необходимости проведения удаления накипи миганием светового индикатора «Накипь» (&lt;strong&gt;‘CALC’&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;Для соблюдения гарантийных условий необходимо выполнять цикл удаления накипи, когда прибор этого требует. Старайтесь соблюдать правильный порядок проведения операций. Когда индикатор горит, вы можете продолжать использовать устройство, но желательно выполнить программу как можно быстрее.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Если на вашей кофемашине установлен фильтр для воды Claris - Aqua Filter System F088, не забудьте снять его перед проведением цикла удаления накипи.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Программа чистки (CLEAN) — полная длительность: ~13 минут</title>
       <link>http://localhost:1313/NoteSphere/posts/krups_clean/</link>
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/krups_clean/</guid>
-      <description>Прибор предупредит Вас о необходимости проведения очистки миганием светового индикатора «Очистка» (‘CLEAN’). Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке (приблизительно после 300 рабочих циклов приготовления кофе или эспрессо).
-⚠️ Для соблюдения гарантийных условий необходимо выполнять цикл очистки прибора, когда он этого требует. Старайтесь соблюдать правильный порядок проведения операций.
-Используйте только таблетки для очистки KRUPS. Вы можете приобрести изделия для очистки в сервисных центрах фирмы KRUPS.</description>
+      <description>&lt;p&gt;Прибор предупредит Вас о необходимости проведения очистки миганием светового индикатора «Очистка» (‘&lt;strong&gt;CLEAN&lt;/strong&gt;’). Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке (приблизительно после 300 рабочих циклов приготовления кофе или эспрессо).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;Для соблюдения гарантийных условий необходимо выполнять цикл очистки прибора, когда он этого требует. Старайтесь соблюдать правильный порядок проведения операций.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Используйте только таблетки для очистки KRUPS. Вы можете приобрести изделия для очистки в сервисных центрах фирмы KRUPS.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Самая красивая теорема математики: тождество Эйлера</title>
       <link>http://localhost:1313/NoteSphere/posts/eulers_identity/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/eulers_identity/</guid>
-      <description>&amp;#x1f517; источник</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/eulers_identity.png&#34; alt=&#34;image&#34;  title=&#34;image&#34;  /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/post/454136/&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Юмор</title>
       <link>http://localhost:1313/NoteSphere/posts/humor/</link>
       <pubDate>Tue, 02 May 2017 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/humor/</guid>
-      <description> Сайт Ссылка Если бы плотников нанимали так же, как программистов Хакер в столовой </description>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Сайт&lt;/th&gt;
+          &lt;th&gt;Ссылка&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/habr.png&#34; alt=&#34;habr&#34;  title=&#34;habr&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://habr.com/ru/articles/285570/&#34;&gt;Если бы плотников нанимали так же, как программистов&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/xakep.png&#34; alt=&#34;xakep&#34;  title=&#34;xakep&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://xakep.ru/2006/12/16/35784/&#34;&gt;Хакер в столовой&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
     <item>
       <title>Необычные имена среди новорожденных</title>
       <link>http://localhost:1313/NoteSphere/posts/unusual_names/</link>
       <pubDate>Fri, 10 Mar 2017 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/unusual_names/</guid>
-      <description>Год Мальчики Девочки 1998 Услада 1999 Полина-Полина 2000 Дмитрий-Аметист
-Матвей-Радуга
-Николай-Никита-Нил 2002 Граф
-Дар 2003 Иван-Коловрат 2004 Голуба 2005 Меркурий Апрель
-Вишня
-Индия 2006 Кантогор-Егор
-Март
-Христамрирадос Принцесса Даниэлла
-Росияна 2007 Князь
-Принц
-Космос Россия 2008 Ангел
-Ветер
-Воля
-Дельфин
-Ярослав-Лютобор Заря-Заряница
-Луна
-Ляля 2009 Илья Богодар
-Каспер Ненаглядный Ангел Мария
-Луналика
-Принцесса Анжелина 2010 Архип-Урал
-Еремей Покровитель
-Кит
-Лука-Счастье Саммерсет Оушен
-Мононо Никита
-Огнеслав Алёша-Каприна
-Океана
-Радость 2012 Ангел</description>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Год&lt;/th&gt;
+          &lt;th&gt;Мальчики&lt;/th&gt;
+          &lt;th&gt;Девочки&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1998&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Услада&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1999&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Полина-Полина&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2000&lt;/td&gt;
+          &lt;td&gt;Дмитрий-Аметист&lt;br&gt; Матвей-Радуга&lt;br&gt; Николай-Никита-Нил&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2002&lt;/td&gt;
+          &lt;td&gt;Граф&lt;br&gt; Дар&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2003&lt;/td&gt;
+          &lt;td&gt;Иван-Коловрат&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2004&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Голуба&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2005&lt;/td&gt;
+          &lt;td&gt;Меркурий&lt;/td&gt;
+          &lt;td&gt;Апрель&lt;br&gt; Вишня&lt;br&gt; Индия&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2006&lt;/td&gt;
+          &lt;td&gt;Кантогор-Егор&lt;br&gt; Март&lt;br&gt; Христамрирадос&lt;/td&gt;
+          &lt;td&gt;Принцесса Даниэлла&lt;br&gt; Росияна&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2007&lt;/td&gt;
+          &lt;td&gt;Князь&lt;br&gt; Принц&lt;br&gt; Космос&lt;/td&gt;
+          &lt;td&gt;Россия&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2008&lt;/td&gt;
+          &lt;td&gt;Ангел&lt;br&gt; Ветер&lt;br&gt; Воля&lt;br&gt; Дельфин&lt;br&gt; Ярослав-Лютобор&lt;/td&gt;
+          &lt;td&gt;Заря-Заряница&lt;br&gt; Луна&lt;br&gt; Ляля&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2009&lt;/td&gt;
+          &lt;td&gt;Илья Богодар&lt;br&gt; Каспер Ненаглядный&lt;/td&gt;
+          &lt;td&gt;Ангел Мария&lt;br&gt; Луналика&lt;br&gt; Принцесса Анжелина&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2010&lt;/td&gt;
+          &lt;td&gt;Архип-Урал&lt;br&gt; Еремей Покровитель&lt;br&gt; Кит&lt;br&gt; Лука-Счастье Саммерсет Оушен&lt;br&gt; Мононо Никита&lt;br&gt; Огнеслав&lt;/td&gt;
+          &lt;td&gt;Алёша-Каприна&lt;br&gt; Океана&lt;br&gt; Радость&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2012&lt;/td&gt;
+          &lt;td&gt;Ангел&lt;br&gt; Будда-Александр&lt;br&gt; Господин&lt;br&gt; Мир&lt;br&gt; Принц&lt;br&gt; Саша-Александр&lt;/td&gt;
+          &lt;td&gt;Алёна-Цветочек&lt;br&gt; Дельфина&lt;br&gt; Лиса&lt;br&gt; Радостина&lt;br&gt; Россия&lt;br&gt; София-Солнышко&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2013&lt;/td&gt;
+          &lt;td&gt;Ангел&lt;br&gt; Космос&lt;br&gt; Максим-Москва&lt;br&gt; Мир&lt;br&gt; Огнеслав&lt;br&gt; Океан&lt;br&gt; Скай&lt;/td&gt;
+          &lt;td&gt;Алиса-Нефертити&lt;br&gt; Легенда&lt;br&gt; Лёля&lt;br&gt; Ляля&lt;br&gt; Радость&lt;br&gt; Челси&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2014&lt;/td&gt;
+          &lt;td&gt;Джаз&lt;br&gt; Рассвет&lt;br&gt; Севастополь&lt;br&gt; Сила&lt;/td&gt;
+          &lt;td&gt;Византия&lt;br&gt; Луна&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2015&lt;/td&gt;
+          &lt;td&gt;Меркурий&lt;/td&gt;
+          &lt;td&gt;Радость&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2016&lt;/td&gt;
+          &lt;td&gt;Цезарь&lt;br&gt; Варфоломей&lt;br&gt; Евстигней&lt;/td&gt;
+          &lt;td&gt;Купава&lt;br&gt; Всеслава&lt;br&gt; Агата Мария&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2017&lt;/td&gt;
+          &lt;td&gt;Форвард&lt;br&gt; Норд&lt;br&gt; Франклин&lt;br&gt; Орфей&lt;br&gt; Велесвет&lt;br&gt; Ладомир&lt;br&gt; Патрикей&lt;br&gt; Харлампий&lt;/td&gt;
+          &lt;td&gt;Дорофея&lt;br&gt; Васса&lt;br&gt; Исидора&lt;br&gt; Златозара&lt;br&gt; Ладислава&lt;br&gt; Аграфена&lt;br&gt; Искра&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2018&lt;/td&gt;
+          &lt;td&gt;Филл&lt;br&gt; Устин&lt;br&gt; Мартин&lt;br&gt; Пахом&lt;br&gt; Данислав&lt;br&gt; Марсель&lt;br&gt; Пересвет&lt;br&gt; Добрыня&lt;/td&gt;
+          &lt;td&gt;Адель-Иллария&lt;br&gt; Виктория Луна&lt;br&gt; Леонида&lt;br&gt; Ия&lt;br&gt; Александра Джейн&lt;br&gt; Капитолина&lt;br&gt; Радомира&lt;br&gt; Линда&lt;br&gt; Августина&lt;br&gt; Доминика&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2019&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Арья&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020&lt;/td&gt;
+          &lt;td&gt;Космос&lt;br&gt; Люцифер&lt;br&gt; Июлиан&lt;br&gt; Александр-Север&lt;br&gt; Ермак-Александр&lt;br&gt; Лев-Моисей&lt;br&gt; Людвиг-Александр&lt;br&gt; Кай&lt;br&gt; Бельчонок&lt;/td&gt;
+          &lt;td&gt;Радость&lt;br&gt; Мадонна&lt;br&gt; Агриппина&lt;br&gt; Любомила&lt;br&gt; Венера-Вероника&lt;br&gt; Патрисия-Деметра-Пейдж&lt;br&gt; Алмаз&lt;br&gt; Тереза&lt;br&gt; Вишня&lt;br&gt; Олимпина&lt;br&gt; Аркадия&lt;br&gt; Арсения&lt;br&gt; Георгия&lt;br&gt; Маруся&lt;br&gt; Настасья&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://zags.mos.ru/stat/imena/neobychnye_imena.php&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;, &lt;a href=&#34;https://web.archive.org/web/20170304081625/http://zags.mos.ru:80/stat/imena/neobychnye_imena.php&#34;&gt;&amp;#x1f5c2;&amp;#xfe0f; архив&lt;/a&gt;, &lt;a href=&#34;https://materinstvo.ru/art/neobychnye_imena?ysclid=m0nid71x864890940&#34;&gt;&amp;#x1f517; источник 2&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Обнаружен сверхмассивный двойник Сатурна с огромными кольцами</title>
       <link>http://localhost:1313/NoteSphere/posts/saturns_twin/</link>
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/saturns_twin/</guid>
-      <description>Астрономы из Нидерландов и США нашли у недавно открытой гигантской экзопланеты J1407 систему колец, масштабы которых в 200 раз больше таких образований у Сатурна.
-Объект был обнаружен еще в 2012 году, отмечается на сайте Рочестерского университета.
-Гигантская планета расположена на орбите звезды, которая отдалена от Солнца более чем на 400 световых лет (около 4 квадриллионов километров). Масса объекта J1407, согласно подсчетам, от 10 до 40 раз больше массы крупнейшей планеты Солнечной системы, Юпитера.</description>
+      <description>&lt;p&gt;Астрономы из Нидерландов и США нашли у недавно открытой гигантской экзопланеты J1407 систему колец, масштабы которых в 200 раз больше таких образований у Сатурна.&lt;/p&gt;
+&lt;p&gt;Объект был обнаружен еще в 2012 году, отмечается на сайте &lt;a href=&#34;http://www.rochester.edu/newscenter/gigantic-ring-system-around-j1407b/&#34;&gt;Рочестерского университета.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Гигантская планета расположена на орбите звезды, которая отдалена от Солнца более чем на 400 световых лет (около 4 квадриллионов километров). Масса объекта J1407, согласно подсчетам, от 10 до 40 раз больше массы крупнейшей планеты Солнечной системы, Юпитера. По классификации астрономов является коричневым карликов. Масса самой звезды этой системы меньше Солнца и составляет около 90% от нее.&lt;/p&gt;</description>
     </item>
     <item>
       <title>В какой стране какой автомобиль</title>
       <link>http://localhost:1313/NoteSphere/posts/cars/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/cars/</guid>
-      <description>Россия ВАЗ, ВИС, ГАЗ, Донинвест, ЗАЗ, ЗИЛ, ИЖ, КАМАЗ, Москвич, СеАЗ, УАЗ, Урал, Derways.
-Великобритания AC, Aston Martin, Austin, Bedford, Bentley, Daimler, Jaguar, Land Rover, Lotus, MINI, Morgan, Rolls-Royce, Rover.
-Германия Audi, BMW, Hymer, MAN, Maybach, Mercedes-Benz, Opel, Porsche, Puch, Smart, Trabant, Volkswagen.
-Индия Hindustan.
-Испания Seat.
-Италия Alfa Romeo, Autobianchi, Bugatti, Ferrari, Fiat, Lamborghini, Lancia, Maserati, Reliant.
-Китай Chery, FAW, Great Wall, Tianye, XinKai.
-Корея Южная Asia Motors, Daewoo, Hyundai, Kia, SsangYong.</description>
+      <description>&lt;h2 id=&#34;россия&#34;&gt;Россия&lt;/h2&gt;
+&lt;p&gt;ВАЗ, ВИС, ГАЗ, Донинвест, ЗАЗ, ЗИЛ, ИЖ, КАМАЗ, Москвич, СеАЗ, УАЗ, Урал, Derways.&lt;/p&gt;
+&lt;h2 id=&#34;великобритания&#34;&gt;Великобритания&lt;/h2&gt;
+&lt;p&gt;AC, Aston Martin, Austin, Bedford, Bentley, Daimler, Jaguar, Land Rover, Lotus, MINI, Morgan, Rolls-Royce, Rover.&lt;/p&gt;
+&lt;h2 id=&#34;германия&#34;&gt;Германия&lt;/h2&gt;
+&lt;p&gt;Audi, BMW, Hymer, MAN, Maybach, Mercedes-Benz, Opel, Porsche, Puch, Smart, Trabant, Volkswagen.&lt;/p&gt;
+&lt;h2 id=&#34;индия&#34;&gt;Индия&lt;/h2&gt;
+&lt;p&gt;Hindustan.&lt;/p&gt;
+&lt;h2 id=&#34;испания&#34;&gt;Испания&lt;/h2&gt;
+&lt;p&gt;Seat.&lt;/p&gt;
+&lt;h2 id=&#34;италия&#34;&gt;Италия&lt;/h2&gt;
+&lt;p&gt;Alfa Romeo, Autobianchi, Bugatti, Ferrari, Fiat, Lamborghini, Lancia, Maserati, Reliant.&lt;/p&gt;
+&lt;h2 id=&#34;китай&#34;&gt;Китай&lt;/h2&gt;
+&lt;p&gt;Chery, FAW, Great Wall, Tianye, XinKai.&lt;/p&gt;
+&lt;h2 id=&#34;корея-южная&#34;&gt;Корея Южная&lt;/h2&gt;
+&lt;p&gt;Asia Motors, Daewoo, Hyundai, Kia, SsangYong.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Стили рэпа</title>
       <link>http://localhost:1313/NoteSphere/posts/rap_styles/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/rap_styles/</guid>
-      <description>Old School Rap Old School Rap — этот стиль используется очень быстрыми rap музыкантами, которые были выходцами из New York City в конце 70-х – начале 80-х годов. Old school («старая школа») легко отличается от остальных направлений своим относительно упрощенным рэпом — большинство строк занимают примерно одинаковое время, а речевые ритмы редко изменяют направление по ходу битов композиции. Модуляция (понижение голоса) обычно точно попадает на бит, а когда такого не случается, то это не надолго,— звук возвращается в изначальную палитру для быстрого консонанса (согласования).</description>
+      <description>&lt;h2 id=&#34;old-school-rap&#34;&gt;Old School Rap&lt;/h2&gt;
+&lt;p&gt;Old School Rap — этот стиль используется очень быстрыми rap музыкантами, которые были выходцами из New York City в конце 70-х – начале 80-х годов. Old school («старая школа») легко отличается от остальных направлений своим относительно упрощенным рэпом — большинство строк занимают примерно одинаковое время, а речевые ритмы редко изменяют направление по ходу битов композиции. Модуляция (понижение голоса) обычно точно попадает на бит, а когда такого не случается, то это не надолго,— звук возвращается в изначальную палитру для быстрого консонанса (согласования). Основной акцент делался не на лирическую сторону музыки, а просто на «старые добрые времена» — это было вдалеке от социально озабоченной команды Grandmaster Flash, которая значительно расширила горизонты rap музыки. Большинство материала в стиле old school rap имело веселый и шутливый привкус городских вечеринок и дискотек, где он зарождался. Придерживавшийся хорошего медленного темпа, стиль old school rap очевидно имел отличную почву для развития женского рэпа, однако никто не смог достичь большего успеха, чем Grandmaster Flash &amp;amp; Furious Five или Sugarhill Gang. Некоторые композиции old school игрались в треках disco или funk, а другие были разбавлены синтезаторным сопровождением (последний тип музыки, с rap или без него, был известен под названием electro). История записанных альбомов в стиле Old school rap начинается в 1979 г. С появлением двух синглов от Fatback King Tim III и Sugarhill Gang Rapper&amp;quot;s Delight, хотя это движение развивалось до этого практически 10 лет. Студия Sugarhill Records быстро стала центром стиля old school rap и доминировала на рынке звукозаписи до того времени, пока в 1983–84 годах Run-D.M.C. не внес свою лепту в развитие техники звучания и не начал развивать направление hardcore urban. Их звук и стиль вскоре полностью захватил rap пространство, превратив клубную ориентацию old school и funk наследие 70-х в нечто старомодное. При сравнении с усложненными ритмами и рифмовками современного modern-day rap — или даже с hip-hop (который вышел в свет менее чем через 10 лет после Rapper&amp;quot;s Delight) — направление old school rap может казаться устаревшим и немного вялым. Однако лучшие треки old school продолжают жить, как самая лучшая музыка для вечеринок – вне зависимости от новой эры, в которой мы живем. Это удивительно, принимая во внимание то активное развитие музыкальной культуры.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Фильмы о Гарри Поттере</title>
       <link>http://localhost:1313/NoteSphere/posts/harry_potter/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/harry_potter/</guid>
-      <description> Гарри Поттер и философский камень (2001) Гарри Поттер и Тайная комната (2002) Гарри Поттер и узник Азкабана (2004) Гарри Поттер и Кубок Огня (2005) Гарри Поттер и Орден Феникса (2007) Гарри Поттер и Принц-полукровка (2009) Гарри Поттер и Дары Смерти: часть 1 (2010) Гарри Поттер и Дары Смерти: часть 2 (2011) </description>
+      <description>&lt;ol&gt;
+&lt;li&gt;Гарри Поттер и философский камень (2001)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и Тайная комната (2002)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и узник Азкабана (2004)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и Кубок Огня (2005)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и Орден Феникса (2007)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и Принц-полукровка (2009)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и Дары Смерти: часть 1 (2010)&lt;/li&gt;
+&lt;li&gt;Гарри Поттер и Дары Смерти: часть 2 (2011)&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Этот сложный русский язык...⁠⁠</title>
       <link>http://localhost:1313/NoteSphere/posts/russian_language/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/russian_language/</guid>
-      <description>Перед нами стол. На столе стакан и вилка. Что они делают? Стакан стоит, а вилка лежит. Если мы воткнем вилку в столешницу, вилка будет стоять. Т. е. стоят вертикальные предметы, а лежат горизонтальные? Добавляем на стол тарелку и сковороду. Они вроде как горизонтальные, но на столе стоят. Теперь положим тарелку в сковородку. Там она лежит, а ведь на столе стояла. Может быть, стоят предметы, готовые к использованию? Нет, вилка-то готова была, когда лежала.</description>
+      <description>&lt;p&gt;Перед нами стол. На столе стакан и вилка. Что они делают? Стакан стоит, а вилка лежит. Если мы воткнем вилку в столешницу, вилка будет стоять. Т. е. стоят вертикальные предметы, а лежат горизонтальные? Добавляем на стол тарелку и сковороду. Они вроде как горизонтальные, но на столе стоят. Теперь положим тарелку в сковородку. Там она лежит, а ведь на столе стояла. Может быть, стоят предметы, готовые к использованию? Нет, вилка-то готова была, когда лежала. Теперь на стол залезает кошка. Она может стоять, сидеть и лежать. Если в плане стояния и лежания она как-то лезет в логику «вертикальный-горизонтальный», то сидение — это новое свойство. Сидит она на попе. Теперь на стол села птичка. Она на столе сидит, но сидит на ногах, а не на попе. Хотя вроде бы должна стоять. Но стоять она не может вовсе. Но если мы убьем бедную птичку и сделаем чучело, оно будет на столе стоять. Может показаться, что сидение — атрибут живого, но сапог на ноге тоже сидит, хотя он не живой и не имеет попы. Так что, поди ж пойми, что стоит, что лежит, а что сидит. А мы еще удивляемся, что иностранцы считают наш язык сложным и сравнивают с китайским.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Расшифровки аббревиатур DVDRip, CAMRip, TS, TC, DVDSrc и т.д.</title>
       <link>http://localhost:1313/NoteSphere/posts/abbreviations_rip/</link>
       <pubDate>Sat, 09 Nov 2013 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/abbreviations_rip/</guid>
-      <description>CAMRip (CAM) Иногда ошибочно помечают как Screen (SCR). Так называемая &amp;ldquo;экранка&amp;rdquo; или &amp;ldquo;тряпка&amp;rdquo;. Видео и звук записывают на камеру в зале кинотеатра. Изображение иногда может трястись, быть снятым под углом к экрану, в некоторых фильмах видны головы других кинозрителей и.т.д. Качество звука бывает разное, возможны помехи типа смеха публики. Обычно самое плохое и самое первое качество которое можно найти после официального релиза фильма.
-Telesync (TS) В идеале записывается с экрана професcиональной (цифровой) камерой, установленной на штатив в пустом кинотеатре либо в кабине оператора.</description>
+      <description>&lt;h2 id=&#34;camrip-cam&#34;&gt;CAMRip (CAM)&lt;/h2&gt;
+&lt;p&gt;Иногда ошибочно помечают как Screen (SCR). Так называемая &amp;ldquo;экранка&amp;rdquo; или &amp;ldquo;тряпка&amp;rdquo;. Видео и звук записывают на камеру в зале кинотеатра. Изображение иногда может трястись, быть снятым под углом к экрану, в некоторых фильмах видны головы других кинозрителей и.т.д. Качество звука бывает разное, возможны помехи типа смеха публики. Обычно самое плохое и самое первое качество которое можно найти после официального релиза фильма.&lt;/p&gt;
+&lt;h2 id=&#34;telesync-ts&#34;&gt;Telesync (TS)&lt;/h2&gt;
+&lt;p&gt;В идеале записывается с экрана професcиональной (цифровой) камерой, установленной на штатив в пустом кинотеатре либо в кабине оператора. Качество видео намного лучше, чем в CAMRip. Звук записывается на прямую с проектора или с другого отдельного выхода, например гнезда для наушников в кресле. Звук таким образом получается очень хороший и без помех. Как правило звук в режиме стерео. Много TS - это в действительности CAMRip, у которых перепутали название.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Многочисленные отображения солнечного затмения на земле</title>
       <link>http://localhost:1313/NoteSphere/posts/solar_eclipse_on_earth/</link>
       <pubDate>Tue, 13 Aug 2013 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/solar_eclipse_on_earth/</guid>
-      <description>Многочисленные отображения солнечного затмения на земле в тени листвы деревьев, получившиеся ввиду эффекта камеры-обскуры, создаваемого светом, проходящим через маленькие зазоры между листьями. Фотография сделана во время солнечного затмения 3 октября 2005 года в Мадриде.</description>
+      <description>&lt;p&gt;Многочисленные отображения солнечного затмения на земле в тени листвы деревьев, получившиеся ввиду эффекта камеры-обскуры, создаваемого светом, проходящим через маленькие зазоры между листьями. Фотография сделана во время солнечного затмения 3 октября 2005 года в Мадриде.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/Nils_van_der_Burg_-_eclipse_and_pin-hole_%28by-sa%29.jpg&#34; alt=&#34;image&#34;  title=&#34;image&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>Красота математики</title>
       <link>http://localhost:1313/NoteSphere/posts/beauty_of_mathematics/</link>
       <pubDate>Fri, 27 Apr 2007 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/beauty_of_mathematics/</guid>
-      <description>1 х 8 + 1 = 9
-12 х 8 + 2 = 98
-123 х 8 + 3 = 987
-1234 х 8 + 4 = 9876
-12345 х 8 + 5 = 98765
-123456 х 8 + 6 = 987654
-1234567 х 8 + 7 = 9876543
-12345678 х 8 + 8 = 98765432
-123456789 х 8 + 9 = 987654321
-&amp;#x1f517; источник, &amp;#x1f5c2;&amp;#xfe0f; архив</description>
+      <description>&lt;p&gt;1 х 8 + 1 = 9&lt;/p&gt;
+&lt;p&gt;12 х 8 + 2 = 98&lt;/p&gt;
+&lt;p&gt;123 х 8 + 3 = 987&lt;/p&gt;
+&lt;p&gt;1234 х 8 + 4 = 9876&lt;/p&gt;
+&lt;p&gt;12345 х 8 + 5 = 98765&lt;/p&gt;
+&lt;p&gt;123456 х 8 + 6 = 987654&lt;/p&gt;
+&lt;p&gt;1234567 х 8 + 7 = 9876543&lt;/p&gt;
+&lt;p&gt;12345678 х 8 + 8 = 98765432&lt;/p&gt;
+&lt;p&gt;123456789 х 8 + 9 = 987654321&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.doodoo.ru/news-3209.html&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;, &lt;a href=&#34;https://web.archive.org/web/20170708081433/http://www.doodoo.ru:80/news-3209.html&#34;&gt;&amp;#x1f5c2;&amp;#xfe0f; архив&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>О пользе курения (юмор)</title>
       <link>http://localhost:1313/NoteSphere/posts/benefits_of_smoking/</link>
       <pubDate>Fri, 27 Apr 2007 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/benefits_of_smoking/</guid>
-      <description>Курение - физиологически необходимый для организма человека процесс. Никотин убивает 36 видов микробов, из них восемь вредных. Под действием никотина первыми погибают старые и ослабленные клетки головного мозга. Смолы, осаждаемые при курении на внутренней поверхности легких, затрудняют доступ воздуха к альвеолам, чем принуждают организм к благотворному усилению кровотока в лёгких. Без курения аналогичный эффект можно получить лишь интенсивными занятиями спортом или сложными дыхательными упражнениями. Сам по себе процесс затягивания дыма, а также кашель курильщика является естественной и необходимой дыхательной гимнастикой.</description>
+      <description>&lt;p&gt;Курение - физиологически необходимый для организма человека процесс. Никотин убивает 36 видов микробов, из них восемь вредных. Под действием никотина первыми погибают старые и ослабленные клетки головного мозга. Смолы, осаждаемые при курении на внутренней поверхности легких, затрудняют доступ воздуха к альвеолам, чем принуждают организм к благотворному усилению кровотока в лёгких. Без курения аналогичный эффект можно получить лишь интенсивными занятиями спортом или сложными дыхательными упражнениями. Сам по себе процесс затягивания дыма, а также кашель курильщика является естественной и необходимой дыхательной гимнастикой.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
