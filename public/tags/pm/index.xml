@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PM on NoteSphere</title>
+    <link>http://localhost:1313/NoteSphere/tags/pm/</link>
+    <description>Recent content in PM on NoteSphere</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Thu, 09 Feb 2017 08:58:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/NoteSphere/tags/pm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как гнобить разработчиков</title>
+      <link>http://localhost:1313/NoteSphere/posts/how_to_oppress_developers/</link>
+      <pubDate>Thu, 09 Feb 2017 08:58:00 +0300</pubDate>
+      <guid>http://localhost:1313/NoteSphere/posts/how_to_oppress_developers/</guid>
+      <description>&lt;p&gt;Здравствуйте, ебаные читатели. Циничный галерный менеджер репортинг ин.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Меня часто спрашивают:&lt;/strong&gt;&lt;br&gt;
+• Как мне достичь таких высоких профессиональных высот (sic!) в управлении жирными командами разработчиков;&lt;br&gt;
+• Что нужно, чтобы шагнуть на следующую эволюционную ступень в области high-менеджмента айти-фирмой;&lt;br&gt;
+• Как грамотно и аргументированно отказать человеку, просящему о повышении?&lt;br&gt;
+• Как технично убедить кандидата в сотрудники, что он ноль без палочки, а потому должен быть готов работать за копейки?&lt;br&gt;
+• Как заставить работников работать за еду?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

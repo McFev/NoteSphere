@@ -4,7 +4,7 @@
     <title>Posts on NoteSphere</title>
     <link>http://localhost:1313/NoteSphere/posts/</link>
     <description>Recent content in Posts on NoteSphere</description>
-    <generator>Hugo -- 0.136.5</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/NoteSphere/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -37,22 +37,14 @@
       <link>http://localhost:1313/NoteSphere/posts/rubiks_cube/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/rubiks_cube/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube1.png&#34; alt=&#34;шаг 1&#34;  title=&#34;шаг 1&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube2.png&#34; alt=&#34;шаг 2&#34;  title=&#34;шаг 2&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube3.png&#34; alt=&#34;шаг 3&#34;  title=&#34;шаг 3&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube4.png&#34; alt=&#34;шаг 4&#34;  title=&#34;шаг 4&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube5.png&#34; alt=&#34;шаг 5&#34;  title=&#34;шаг 5&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube6.png&#34; alt=&#34;шаг 6&#34;  title=&#34;шаг 6&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube7.png&#34; alt=&#34;шаг 7&#34;  title=&#34;шаг 7&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube8.png&#34; alt=&#34;шаг 8&#34;  title=&#34;шаг 8&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;шаг 1&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube1.png&#34; title=&#34;шаг 1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;шаг 2&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube2.png&#34; title=&#34;шаг 2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;шаг 3&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube3.png&#34; title=&#34;шаг 3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;шаг 4&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube4.png&#34; title=&#34;шаг 4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;шаг 5&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube5.png&#34; title=&#34;шаг 5&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;шаг 6&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube6.png&#34; title=&#34;шаг 6&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;шаг 7&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube7.png&#34; title=&#34;шаг 7&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;шаг 8&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube8.png&#34; title=&#34;шаг 8&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;a href=&#34;https://welday.org/blog/interesting/rubiks-cube/&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -89,8 +81,7 @@
       <link>http://localhost:1313/NoteSphere/posts/eulers_identity/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/eulers_identity/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/eulers_identity.png&#34; alt=&#34;image&#34;  title=&#34;image&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;../../images/eulers_identity.png&#34; title=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;a href=&#34;https://habr.com/ru/post/454136/&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;&lt;/p&gt;</description>
     </item>
@@ -108,13 +99,11 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/habr.png&#34; alt=&#34;habr&#34;  title=&#34;habr&#34;  /&gt;
-&lt;/td&gt;
+          &lt;td&gt;&lt;img alt=&#34;habr&#34; loading=&#34;lazy&#34; src=&#34;../../images/habr.png&#34; title=&#34;habr&#34;&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://habr.com/ru/articles/285570/&#34;&gt;Если бы плотников нанимали так же, как программистов&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/xakep.png&#34; alt=&#34;xakep&#34;  title=&#34;xakep&#34;  /&gt;
-&lt;/td&gt;
+          &lt;td&gt;&lt;img alt=&#34;xakep&#34; loading=&#34;lazy&#34; src=&#34;../../images/xakep.png&#34; title=&#34;xakep&#34;&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://xakep.ru/2006/12/16/35784/&#34;&gt;Хакер в столовой&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -245,6 +234,27 @@
 &lt;p&gt;&lt;a href=&#34;https://zags.mos.ru/stat/imena/neobychnye_imena.php&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;, &lt;a href=&#34;https://web.archive.org/web/20170304081625/http://zags.mos.ru:80/stat/imena/neobychnye_imena.php&#34;&gt;&amp;#x1f5c2;&amp;#xfe0f; архив&lt;/a&gt;, &lt;a href=&#34;https://materinstvo.ru/art/neobychnye_imena?ysclid=m0nid71x864890940&#34;&gt;&amp;#x1f517; источник 2&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Как гнобить разработчиков</title>
+      <link>http://localhost:1313/NoteSphere/posts/how_to_oppress_developers/</link>
+      <pubDate>Thu, 09 Feb 2017 08:58:00 +0300</pubDate>
+      <guid>http://localhost:1313/NoteSphere/posts/how_to_oppress_developers/</guid>
+      <description>&lt;p&gt;Здравствуйте, ебаные читатели. Циничный галерный менеджер репортинг ин.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Меня часто спрашивают:&lt;/strong&gt;&lt;br&gt;
+• Как мне достичь таких высоких профессиональных высот (sic!) в управлении жирными командами разработчиков;&lt;br&gt;
+• Что нужно, чтобы шагнуть на следующую эволюционную ступень в области high-менеджмента айти-фирмой;&lt;br&gt;
+• Как грамотно и аргументированно отказать человеку, просящему о повышении?&lt;br&gt;
+• Как технично убедить кандидата в сотрудники, что он ноль без палочки, а потому должен быть готов работать за копейки?&lt;br&gt;
+• Как заставить работников работать за еду?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Как платить программистам меньше</title>
+      <link>http://localhost:1313/NoteSphere/posts/how_to_pay_devs_less/</link>
+      <pubDate>Thu, 08 Dec 2016 08:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/NoteSphere/posts/how_to_pay_devs_less/</guid>
+      <description>&lt;p&gt;Чтобы создавать софт, нужны программеры. К сожалению. Они дорогие, ленивые, ими почти невозможно управлять. Проги, которые они пишут, либо работают, либо нет, но вам все равно приходится платить им, каждый месяц. Конечно, всегда лучше платить меньше. Однако, иногда они могут понять, что им недоплачивают и свалить. Как избежать этого? К сожалению, использовать насилие не получится, зато есть определенные техники. Я с вами поделюсь ими.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Держите зарплаты в секрете.&lt;/strong&gt; Это очевидно: не давайте им обсуждать зарплаты. Они должны держать эту инфу в секрете. Предупредите их, и даже подпишите NDA, запрещающий разговоры о получке, бонусах, компенсационных пакетах, и так далее. Они должны чувствовать, что эта инфа токсична и никогда не говорить с друг другом о зарплате. Если они не знают сколько получают коллеги, то и не будут поднимать вопросы о зарплате.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Обнаружен сверхмассивный двойник Сатурна с огромными кольцами</title>
       <link>http://localhost:1313/NoteSphere/posts/saturns_twin/</link>
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0300</pubDate>
@@ -322,8 +332,7 @@
       <pubDate>Tue, 13 Aug 2013 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/solar_eclipse_on_earth/</guid>
       <description>&lt;p&gt;Многочисленные отображения солнечного затмения на земле в тени листвы деревьев, получившиеся ввиду эффекта камеры-обскуры, создаваемого светом, проходящим через маленькие зазоры между листьями. Фотография сделана во время солнечного затмения 3 октября 2005 года в Мадриде.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/Nils_van_der_Burg_-_eclipse_and_pin-hole_%28by-sa%29.jpg&#34; alt=&#34;image&#34;  title=&#34;image&#34;  /&gt;
-&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;../../images/Nils_van_der_Burg_-_eclipse_and_pin-hole_(by-sa).jpg&#34; title=&#34;image&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Красота математики</title>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Управление Людьми on NoteSphere</title>
+    <link>http://localhost:1313/NoteSphere/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BB%D1%8E%D0%B4%D1%8C%D0%BC%D0%B8/</link>
+    <description>Recent content in Управление Людьми on NoteSphere</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Thu, 09 Feb 2017 08:58:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/NoteSphere/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BB%D1%8E%D0%B4%D1%8C%D0%BC%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как гнобить разработчиков</title>
+      <link>http://localhost:1313/NoteSphere/posts/how_to_oppress_developers/</link>
+      <pubDate>Thu, 09 Feb 2017 08:58:00 +0300</pubDate>
+      <guid>http://localhost:1313/NoteSphere/posts/how_to_oppress_developers/</guid>
+      <description>&lt;p&gt;Здравствуйте, ебаные читатели. Циничный галерный менеджер репортинг ин.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Меня часто спрашивают:&lt;/strong&gt;&lt;br&gt;
+• Как мне достичь таких высоких профессиональных высот (sic!) в управлении жирными командами разработчиков;&lt;br&gt;
+• Что нужно, чтобы шагнуть на следующую эволюционную ступень в области high-менеджмента айти-фирмой;&lt;br&gt;
+• Как грамотно и аргументированно отказать человеку, просящему о повышении?&lt;br&gt;
+• Как технично убедить кандидата в сотрудники, что он ноль без палочки, а потому должен быть готов работать за копейки?&lt;br&gt;
+• Как заставить работников работать за еду?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Как платить программистам меньше</title>
+      <link>http://localhost:1313/NoteSphere/posts/how_to_pay_devs_less/</link>
+      <pubDate>Thu, 08 Dec 2016 08:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/NoteSphere/posts/how_to_pay_devs_less/</guid>
+      <description>&lt;p&gt;Чтобы создавать софт, нужны программеры. К сожалению. Они дорогие, ленивые, ими почти невозможно управлять. Проги, которые они пишут, либо работают, либо нет, но вам все равно приходится платить им, каждый месяц. Конечно, всегда лучше платить меньше. Однако, иногда они могут понять, что им недоплачивают и свалить. Как избежать этого? К сожалению, использовать насилие не получится, зато есть определенные техники. Я с вами поделюсь ими.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Держите зарплаты в секрете.&lt;/strong&gt; Это очевидно: не давайте им обсуждать зарплаты. Они должны держать эту инфу в секрете. Предупредите их, и даже подпишите NDA, запрещающий разговоры о получке, бонусах, компенсационных пакетах, и так далее. Они должны чувствовать, что эта инфа токсична и никогда не говорить с друг другом о зарплате. Если они не знают сколько получают коллеги, то и не будут поднимать вопросы о зарплате.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

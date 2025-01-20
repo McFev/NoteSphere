@@ -4,7 +4,7 @@
     <title>Evernote on NoteSphere</title>
     <link>http://localhost:1313/NoteSphere/categories/evernote/</link>
     <description>Recent content in Evernote on NoteSphere</description>
-    <generator>Hugo -- 0.136.5</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 02 May 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/NoteSphere/categories/evernote/index.xml" rel="self" type="application/rss+xml" />
@@ -22,13 +22,11 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/habr.png&#34; alt=&#34;habr&#34;  title=&#34;habr&#34;  /&gt;
-&lt;/td&gt;
+          &lt;td&gt;&lt;img alt=&#34;habr&#34; loading=&#34;lazy&#34; src=&#34;../../images/habr.png&#34; title=&#34;habr&#34;&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://habr.com/ru/articles/285570/&#34;&gt;Если бы плотников нанимали так же, как программистов&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/xakep.png&#34; alt=&#34;xakep&#34;  title=&#34;xakep&#34;  /&gt;
-&lt;/td&gt;
+          &lt;td&gt;&lt;img alt=&#34;xakep&#34; loading=&#34;lazy&#34; src=&#34;../../images/xakep.png&#34; title=&#34;xakep&#34;&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://xakep.ru/2006/12/16/35784/&#34;&gt;Хакер в столовой&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -229,8 +227,7 @@
       <pubDate>Tue, 13 Aug 2013 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/posts/solar_eclipse_on_earth/</guid>
       <description>&lt;p&gt;Многочисленные отображения солнечного затмения на земле в тени листвы деревьев, получившиеся ввиду эффекта камеры-обскуры, создаваемого светом, проходящим через маленькие зазоры между листьями. Фотография сделана во время солнечного затмения 3 октября 2005 года в Мадриде.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../images/Nils_van_der_Burg_-_eclipse_and_pin-hole_%28by-sa%29.jpg&#34; alt=&#34;image&#34;  title=&#34;image&#34;  /&gt;
-&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;../../images/Nils_van_der_Burg_-_eclipse_and_pin-hole_(by-sa).jpg&#34; title=&#34;image&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Красота математики</title>
