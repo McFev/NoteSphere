@@ -36,5 +36,12 @@
       <guid>http://localhost:1313/NoteSphere/categories/google-disk/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Other</title>
+      <link>http://localhost:1313/NoteSphere/categories/other/</link>
+      <pubDate>Tue, 27 Aug 2013 03:59:07 +0300</pubDate>
+      <guid>http://localhost:1313/NoteSphere/categories/other/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
