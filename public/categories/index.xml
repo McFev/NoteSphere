@@ -4,10 +4,17 @@
     <title>Categories on NoteSphere</title>
     <link>http://localhost:1313/NoteSphere/categories/</link>
     <description>Recent content in Categories on NoteSphere</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/NoteSphere/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Other</title>
+      <link>http://localhost:1313/NoteSphere/categories/other/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/NoteSphere/categories/other/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Notion</title>
       <link>http://localhost:1313/NoteSphere/categories/notion/</link>
@@ -34,13 +41,6 @@
       <link>http://localhost:1313/NoteSphere/categories/google-disk/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0300</pubDate>
       <guid>http://localhost:1313/NoteSphere/categories/google-disk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Other</title>
-      <link>http://localhost:1313/NoteSphere/categories/other/</link>
-      <pubDate>Tue, 27 Aug 2013 03:59:07 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/categories/other/</guid>
       <description></description>
     </item>
   </channel>

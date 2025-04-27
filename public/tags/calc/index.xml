@@ -4,7 +4,7 @@
     <title>Calc on NoteSphere</title>
     <link>http://localhost:1313/NoteSphere/tags/calc/</link>
     <description>Recent content in Calc on NoteSphere</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/NoteSphere/tags/calc/index.xml" rel="self" type="application/rss+xml" />
@@ -16,8 +16,7 @@
       <description>&lt;p&gt;Количество накипи зависит от жесткости используемой воды. Прибор предупредит вас о необходимости проведения удаления накипи миганием светового индикатора «Накипь» (&lt;strong&gt;‘CALC’&lt;/strong&gt;).&lt;/p&gt;
 &lt;p&gt;Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;⚠️ &lt;strong&gt;Для соблюдения гарантийных условий необходимо выполнять цикл удаления накипи, когда прибор этого требует. Старайтесь соблюдать правильный порядок проведения операций. Когда индикатор горит, вы можете продолжать использовать устройство, но желательно выполнить программу как можно быстрее.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;Для соблюдения гарантийных условий необходимо выполнять цикл удаления накипи, когда прибор этого требует. Старайтесь соблюдать правильный порядок проведения операций. Когда индикатор горит, вы можете продолжать использовать устройство, но желательно выполнить программу как можно быстрее.&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Если на вашей кофемашине установлен фильтр для воды Claris - Aqua Filter System F088, не забудьте снять его перед проведением цикла удаления накипи.&lt;/p&gt;</description>
     </item>
   </channel>
