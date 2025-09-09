@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="353" height="331" version="1.1" viewBox="0 0 353 331" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="ConcaveTriangle" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+   <path transform="scale(.7)" d="m-2-4 11 4-11 4c2-2.33 2-5.66 0-8z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+  <marker id="marker3" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+   <path transform="scale(.7)" d="m-2-4 11 4-11 4c2-2.33 2-5.66 0-8z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+  <marker id="marker3-4" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+   <path transform="scale(.7)" d="m-2-4 11 4-11 4c2-2.33 2-5.66 0-8z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+  <marker id="marker3-4-1" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+   <path transform="scale(.7)" d="m-2-4 11 4-11 4c2-2.33 2-5.66 0-8z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+  <marker id="marker3-4-1-6" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+   <path transform="scale(.7)" d="m-2-4 11 4-11 4c2-2.33 2-5.66 0-8z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+  <marker id="marker3-4-16" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+   <path transform="scale(.7)" d="m-2-4 11 4-11 4c2-2.33 2-5.66 0-8z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+  <marker id="marker3-9" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+   <path transform="scale(.7)" d="m-2-4 11 4-11 4c2-2.33 2-5.66 0-8z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+  <marker id="ConcaveTriangle-1" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+   <path transform="scale(.7)" d="m-2-4 11 4-11 4c2-2.33 2-5.66 0-8z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+  <marker id="marker3-4-1-9" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+   <path transform="scale(.7)" d="m-2-4 11 4-11 4c2-2.33 2-5.66 0-8z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+ </defs>
+ <g fill="none">
+  <g stroke="#929292" stroke-width="2">
+   <g transform="translate(-.0988 .632)">
+    <rect x="9.1" y="160" width="72" height="72" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" style="paint-order:fill markers stroke"/>
+    <path d="m33 160v71.6"/>
+    <path d="m81.1 184h-71.6"/>
+    <path d="m80.9 208h-71.6"/>
+    <path d="m57.3 161v71.6"/>
+   </g>
+   <g transform="translate(86.9 .632)">
+    <rect x="9.1" y="160" width="72" height="72" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" style="paint-order:fill markers stroke"/>
+    <path d="m33 160v71.6"/>
+    <path d="m81.1 184h-71.6"/>
+    <path d="m80.9 208h-71.6"/>
+    <path d="m57.3 161v71.6"/>
+   </g>
+   <g transform="translate(174 .632)">
+    <rect x="9.1" y="160" width="72" height="72" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" style="paint-order:fill markers stroke"/>
+    <path d="m33 160v71.6"/>
+    <path d="m81.1 184h-71.6"/>
+    <path d="m80.9 208h-71.6"/>
+    <path d="m57.3 161v71.6"/>
+   </g>
+   <g transform="translate(261 .632)">
+    <rect x="9.1" y="160" width="72" height="72" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" style="paint-order:fill markers stroke"/>
+    <path d="m33 160v71.6"/>
+    <path d="m81.1 184h-71.6"/>
+    <path d="m80.9 208h-71.6"/>
+    <path d="m57.3 161v71.6"/>
+   </g>
+   <g transform="translate(-.0988 88.6)">
+    <rect x="9.1" y="160" width="72" height="72" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" style="paint-order:fill markers stroke"/>
+    <path d="m33 160v71.6"/>
+    <path d="m81.1 184h-71.6"/>
+    <path d="m80.9 208h-71.6"/>
+    <path d="m57.3 161v71.6"/>
+   </g>
+   <g transform="translate(86.9 88.6)">
+    <rect x="9.1" y="160" width="72" height="72" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" style="paint-order:fill markers stroke"/>
+    <path d="m33 160v71.6"/>
+    <path d="m81.1 184h-71.6"/>
+    <path d="m80.9 208h-71.6"/>
+    <path d="m57.3 161v71.6"/>
+   </g>
+   <g transform="translate(174 88.6)">
+    <rect x="9.1" y="160" width="72" height="72" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" style="paint-order:fill markers stroke"/>
+    <path d="m33 160v71.6"/>
+    <path d="m81.1 184h-71.6"/>
+    <path d="m80.9 208h-71.6"/>
+    <path d="m57.3 161v71.6"/>
+   </g>
+   <g transform="translate(261 88.6)">
+    <rect x="9.1" y="160" width="72" height="72" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" style="paint-order:fill markers stroke"/>
+    <path d="m33 160v71.6"/>
+    <path d="m81.1 184h-71.6"/>
+    <path d="m80.9 208h-71.6"/>
+    <path d="m57.3 161v71.6"/>
+   </g>
+  </g>
+  <g stroke="#c02525">
+   <g stroke-width="1.62">
+    <path d="m18.7 220h43.4" marker-end="url(#marker3)"/>
+    <path d="m193 310h43.4" marker-end="url(#marker3-9)"/>
+    <path d="m245 221h-43.4" marker-end="url(#marker3-4)"/>
+    <path d="m71.6 309h-43.4" marker-end="url(#marker3-4-16)"/>
+    <path d="m108 172v43.4" marker-end="url(#marker3-4-1)"/>
+    <path d="m281 223v-43.4" marker-end="url(#marker3-4-1-6)"/>
+   </g>
+   <path transform="matrix(.606 -.648 .672 .585 -140 200)" d="m151 272c8.9 12.2 6.14 29.8-6.05 38.7-0.316 0.23-0.636 0.454-0.961 0.671" marker-start="url(#ConcaveTriangle)" stroke-width="1.67"/>
+   <path transform="matrix(-.606 -.648 -.672 .585 576 200)" d="m151 272c8.9 12.2 6.14 29.8-6.05 38.7-0.316 0.23-0.636 0.454-0.961 0.671" marker-start="url(#ConcaveTriangle-1)" stroke-width="1.67"/>
+  </g>
+ </g>
+ <g stroke-miterlimit="0">
+  <text x="210.22359" y="134.15381" fill="#7f7f7f" font-family="Arial" font-size="18.7px" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" text-align="center" text-anchor="middle" style="font-variant-caps:all-small-caps;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;paint-order:fill markers stroke" xml:space="preserve"><tspan x="212.81668" y="134.15381" fill="#7f7f7f" font-family="Arial" font-size="18.7px" style="font-variant-caps:all-small-caps;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Н Л Н' Л' Н' Ф' Н Ф </tspan></text>
+  <g fill="#3771c8" stroke="#000" stroke-linecap="square">
+   <rect x="9.17" y="47.6" width="28.2" height="29" ry="0" stroke-width="2" style="paint-order:stroke fill markers"/>
+   <rect x="37.4" y="47.6" width="28.2" height="29" ry="0" stroke-width="2" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(1 0 -.725 .689 0 0)" x="59.2" y="49.9" width="28" height="19.1" ry="0" stroke-width="2.4" style="paint-order:stroke fill markers"/>
+   <rect x="65.5" y="47.6" width="28.2" height="29" ry="0" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+  </g>
+  <g stroke="#000" stroke-linecap="square" stroke-width="2">
+   <rect x="9.13" y="76.7" width="28.2" height="29" ry="0" fill="#ffd42a" style="paint-order:stroke fill markers"/>
+   <rect x="37.4" y="76.7" width="28.2" height="29" ry="0" fill="#3771c8" style="paint-order:stroke fill markers"/>
+   <rect x="65.4" y="76.7" width="28.2" height="29" ry="0" fill="#fff" style="paint-order:stroke fill markers"/>
+   <rect x="9.12" y="106" width="28.2" height="29" ry="0" fill="#fff" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+   <rect x="37.4" y="106" width="28.2" height="29" ry="0" fill="#ffd42a" style="paint-order:stroke fill markers"/>
+   <rect x="65.4" y="106" width="28.2" height="29" ry="0" fill="#fff" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
+ <g fill="#3771c8" stroke="#000" stroke-miterlimit="0">
+  <g stroke-linecap="square" stroke-width="2.4">
+   <rect transform="matrix(1 0 -.725 .689 0 0)" x="87.3" y="49.9" width="28" height="19.1" ry="0" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(1 0 -.725 .689 0 0)" x="115" y="49.9" width="28" height="19.1" ry="0" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(1 0 -.725 .689 0 0)" x="59.1" y="30.7" width="28" height="19.1" ry="0" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(1 0 -.725 .689 0 0)" x="87.3" y="30.7" width="28" height="19.1" ry="0" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(1 0 -.725 .689 0 0)" x="115" y="30.7" width="28" height="19.1" ry="0" style="paint-order:stroke fill markers"/>
+  </g>
+  <g transform="translate(0 -.09059)" stroke-width="2.4">
+   <rect transform="matrix(1 0 -.725 .689 0 0)" x="59.1" y="11.5" width="28" height="19.1" ry="0" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(1 0 -.725 .689 0 0)" x="87.3" y="11.5" width="28" height="19.1" ry="0" stroke-linecap="square" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(1 0 -.725 .689 0 0)" x="115" y="11.5" width="28" height="19.1" ry="0" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  </g>
+  <g transform="translate(0 -.7318)" stroke-linecap="square" stroke-width="2.34">
+   <rect transform="matrix(0 1 .728 -.686 0 0)" x="137" y="129" width="28.7" height="19.1" ry="0" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(0 1 .728 -.686 0 0)" x="137" y="148" width="28.7" height="19.1" ry="0" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(0 1 .728 -.686 0 0)" x="137" y="167" width="28.7" height="19.1" ry="0" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
+ <g stroke="#000" stroke-linecap="square" stroke-miterlimit="0" stroke-width="2.34">
+  <rect transform="matrix(0 1 .728 -.686 0 0)" x="165" y="129" width="28.7" height="19.1" ry="0" fill="#fff" style="paint-order:stroke fill markers"/>
+  <rect transform="matrix(0 1 .728 -.686 0 0)" x="165" y="148" width="28.7" height="19.1" ry="0" fill="#3771c8" style="paint-order:stroke fill markers"/>
+  <g fill="#fff">
+   <rect transform="matrix(0 1 .728 -.686 0 0)" x="165" y="167" width="28.7" height="19.1" ry="0" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(0 1 .728 -.686 0 0)" x="194" y="129" width="28.7" height="19.1" ry="0" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(0 1 .728 -.686 0 0)" x="194" y="148" width="28.7" height="19.1" ry="0" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(0 1 .728 -.686 0 0)" x="194" y="167" width="28.7" height="19.1" ry="0" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
+ <path d="m49.6 122-21.4-22.2" fill="none" marker-end="url(#marker3-4-1-9)" stroke="#c02525" stroke-width="1.62"/>
+</svg>

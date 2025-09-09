@@ -5,7 +5,7 @@ draft: false
 hideSummary: true
 
 cover:
-  image: "images/krups_clean.png"
+  image: "images/krups_clean.webp"
   alt: "krups clean"
   relative: false
 

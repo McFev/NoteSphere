@@ -5,7 +5,7 @@ draft: false
 hideSummary: true
 
 cover:
-  image: "images/krups_calc.png"
+  image: "images/krups_calc.webp"
   alt: "krups calc"
   relative: false
 
