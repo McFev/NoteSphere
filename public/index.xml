@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>NoteSphere</title>
-    <link>http://localhost:1313/NoteSphere/</link>
+    <link>https://mcfev.github.io/NoteSphere/</link>
     <description>Recent content on NoteSphere</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
     <lastBuildDate>Tue, 19 Aug 2025 17:06:16 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/NoteSphere/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mcfev.github.io/NoteSphere/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>В будущем всю еду будут готовить в микроволновке, и если вы не можете с этим смириться, то вам пора уйти с кухни</title>
-      <link>http://localhost:1313/NoteSphere/posts/microwave/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/microwave/</link>
       <pubDate>Tue, 19 Aug 2025 17:06:16 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/microwave/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/microwave/</guid>
       <description>&lt;p&gt;Как владелец ресторана, я поражен темпами прогресса с тех пор, как несколько лет назад появились микроволновки. Сегодняшняя микроволновка может приготовить замороженное буррито. Завтрашняя микроволновка сможет приготовить целый ужин на День благодарения. А через десять лет микроволновка, возможно, сможет даже управлять страной.&lt;/p&gt;
 &lt;p&gt;Недавно я смотрел прямую трансляцию местного продавца микроволновок. Он предложил, чтобы рестораны готовили всю еду в микроволновках.&lt;/p&gt;
 &lt;p&gt;Нам всем нужно перейти на этот способ готовки, потому что очевидно, что будущее за ним. Я ожидаю, что через несколько лет кухни станут намного меньше. Плиты, духовки и грили уйдут в прошлое. Ресторанные кухни превратятся в маленький чулан с микроволновкой. Я предсказываю, что это произойдет не позднее 1955 года.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Список эпизодов сериала «Чёрное зеркало»</title>
-      <link>http://localhost:1313/NoteSphere/posts/black_mirror_episodes/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/black_mirror_episodes/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:01 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/black_mirror_episodes/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/black_mirror_episodes/</guid>
       <description>&lt;h2 id=&#34;сезон-1-2011&#34;&gt;Сезон 1 (2011)&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B8%D0%BC%D0%BD_%28%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE%29&#34;&gt;Национальный гимн&lt;/a&gt;&lt;/li&gt;
@@ -43,9 +43,9 @@
     </item>
     <item>
       <title>📝 Доп. клавиатура (25 keys)</title>
-      <link>http://localhost:1313/NoteSphere/posts/keyboard/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/keyboard/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/keyboard/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/keyboard/</guid>
       <description>&lt;h2 id=&#34;25key-qmk-json&#34;&gt;25KEY QMK Json&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1eUE0M8cn2ncafuZHglho2dna2Rbtsu4b/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; winry25tc.json&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;../files/keyboard_winry25tc.json&#34; download&gt;&amp;#x1f4ce; winry25tc.json&lt;/a&gt;&lt;/p&gt;
@@ -67,9 +67,9 @@
     </item>
     <item>
       <title>Схема сборки кубика Рубика 3x3</title>
-      <link>http://localhost:1313/NoteSphere/posts/rubiks_cube/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/rubiks_cube/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/rubiks_cube/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/rubiks_cube/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;шаг 1&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube1.svg&#34; title=&#34;шаг 1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;шаг 2&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube2.svg&#34; title=&#34;шаг 2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;шаг 3&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube3.svg&#34; title=&#34;шаг 3&#34;&gt;&lt;/p&gt;
@@ -82,9 +82,9 @@
     </item>
     <item>
       <title>Программа удаления накипи (CALC) — полная длительность: ~20 минут</title>
-      <link>http://localhost:1313/NoteSphere/posts/krups_calc/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/krups_calc/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/krups_calc/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/krups_calc/</guid>
       <description>&lt;p&gt;Количество накипи зависит от жёсткости используемой воды. Прибор предупредит вас о необходимости проведения удаления накипи миганием светового индикатора «Накипь» &lt;strong&gt;&amp;lsquo;CALC&amp;rsquo;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -94,9 +94,9 @@
     </item>
     <item>
       <title>Программа чистки (CLEAN) — полная длительность: ~13 минут</title>
-      <link>http://localhost:1313/NoteSphere/posts/krups_clean/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/krups_clean/</link>
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/krups_clean/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/krups_clean/</guid>
       <description>&lt;p&gt;Прибор предупредит Вас о необходимости проведения очистки миганием светового индикатора «Очистка» &amp;lsquo;&lt;strong&gt;CLEAN&lt;/strong&gt;&amp;rsquo;.&lt;/p&gt;
 &lt;p&gt;Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке (приблизительно после 300 рабочих циклов приготовления кофе или эспрессо).&lt;/p&gt;
 &lt;blockquote&gt;
@@ -106,18 +106,18 @@
     </item>
     <item>
       <title>Самая красивая теорема математики: тождество Эйлера</title>
-      <link>http://localhost:1313/NoteSphere/posts/eulers_identity/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/eulers_identity/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;../../images/eulers_identity.png&#34; title=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;a href=&#34;https://habr.com/ru/post/454136/&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Юмор</title>
-      <link>http://localhost:1313/NoteSphere/posts/humor/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/humor/</link>
       <pubDate>Tue, 02 May 2017 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/humor/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/humor/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -139,9 +139,9 @@
     </item>
     <item>
       <title>Необычные имена среди новорожденных</title>
-      <link>http://localhost:1313/NoteSphere/posts/unusual_names/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/unusual_names/</link>
       <pubDate>Fri, 10 Mar 2017 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/unusual_names/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/unusual_names/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -263,9 +263,9 @@
     </item>
     <item>
       <title>Как гнобить разработчиков</title>
-      <link>http://localhost:1313/NoteSphere/posts/how_to_oppress_developers/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/how_to_oppress_developers/</link>
       <pubDate>Thu, 09 Feb 2017 08:58:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/how_to_oppress_developers/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/how_to_oppress_developers/</guid>
       <description>&lt;p&gt;Здравствуйте, ебаные читатели. Циничный галерный менеджер репортинг ин.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Меня часто спрашивают:&lt;/strong&gt;&lt;br&gt;
 • Как мне достичь таких высоких профессиональных высот (sic!) в управлении жирными командами разработчиков;&lt;br&gt;
@@ -276,26 +276,26 @@
     </item>
     <item>
       <title>Как платить программистам меньше</title>
-      <link>http://localhost:1313/NoteSphere/posts/how_to_pay_devs_less/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/how_to_pay_devs_less/</link>
       <pubDate>Thu, 08 Dec 2016 08:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/how_to_pay_devs_less/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/how_to_pay_devs_less/</guid>
       <description>&lt;p&gt;Чтобы создавать софт, нужны программеры. К сожалению. Они дорогие, ленивые, ими почти невозможно управлять. Проги, которые они пишут, либо работают, либо нет, но вам все равно приходится платить им, каждый месяц. Конечно, всегда лучше платить меньше. Однако, иногда они могут понять, что им недоплачивают и свалить. Как избежать этого? К сожалению, использовать насилие не получится, зато есть определенные техники. Я с вами поделюсь ими.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Держите зарплаты в секрете.&lt;/strong&gt; Это очевидно: не давайте им обсуждать зарплаты. Они должны держать эту инфу в секрете. Предупредите их, и даже подпишите NDA, запрещающий разговоры о получке, бонусах, компенсационных пакетах, и так далее. Они должны чувствовать, что эта инфа токсична и никогда не говорить с друг другом о зарплате. Если они не знают сколько получают коллеги, то и не будут поднимать вопросы о зарплате.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Обнаружен сверхмассивный двойник Сатурна с огромными кольцами</title>
-      <link>http://localhost:1313/NoteSphere/posts/saturns_twin/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/saturns_twin/</link>
       <pubDate>Wed, 04 Feb 2015 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/saturns_twin/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/saturns_twin/</guid>
       <description>&lt;p&gt;Астрономы из Нидерландов и США нашли у недавно открытой гигантской экзопланеты J1407 систему колец, масштабы которых в 200 раз больше таких образований у Сатурна.&lt;/p&gt;
 &lt;p&gt;Объект был обнаружен еще в 2012 году, отмечается на сайте &lt;a href=&#34;http://www.rochester.edu/newscenter/gigantic-ring-system-around-j1407b/&#34;&gt;Рочестерского университета.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Гигантская планета расположена на орбите звезды, которая отдалена от Солнца более чем на 400 световых лет (около 4 квадриллионов километров). Масса объекта J1407, согласно подсчетам, от 10 до 40 раз больше массы крупнейшей планеты Солнечной системы, Юпитера. По классификации астрономов является коричневым карликов. Масса самой звезды этой системы меньше Солнца и составляет около 90% от нее.&lt;/p&gt;</description>
     </item>
     <item>
       <title>В какой стране какой автомобиль</title>
-      <link>http://localhost:1313/NoteSphere/posts/cars/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/cars/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/cars/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/cars/</guid>
       <description>&lt;h2 id=&#34;россия&#34;&gt;Россия&lt;/h2&gt;
 &lt;p&gt;ВАЗ, ВИС, ГАЗ, Донинвест, ЗАЗ, ЗИЛ, ИЖ, КАМАЗ, Москвич, СеАЗ, УАЗ, Урал, Derways.&lt;/p&gt;
 &lt;h2 id=&#34;великобритания&#34;&gt;Великобритания&lt;/h2&gt;
@@ -315,17 +315,17 @@
     </item>
     <item>
       <title>Стили рэпа</title>
-      <link>http://localhost:1313/NoteSphere/posts/rap_styles/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/rap_styles/</link>
       <pubDate>Wed, 05 Nov 2014 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/rap_styles/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/rap_styles/</guid>
       <description>&lt;h2 id=&#34;old-school-rap&#34;&gt;Old School Rap&lt;/h2&gt;
 &lt;p&gt;Old School Rap — этот стиль используется очень быстрыми rap музыкантами, которые были выходцами из New York City в конце 70-х – начале 80-х годов. Old school («старая школа») легко отличается от остальных направлений своим относительно упрощенным рэпом — большинство строк занимают примерно одинаковое время, а речевые ритмы редко изменяют направление по ходу битов композиции. Модуляция (понижение голоса) обычно точно попадает на бит, а когда такого не случается, то это не надолго,— звук возвращается в изначальную палитру для быстрого консонанса (согласования). Основной акцент делался не на лирическую сторону музыки, а просто на «старые добрые времена» — это было вдалеке от социально озабоченной команды Grandmaster Flash, которая значительно расширила горизонты rap музыки. Большинство материала в стиле old school rap имело веселый и шутливый привкус городских вечеринок и дискотек, где он зарождался. Придерживавшийся хорошего медленного темпа, стиль old school rap очевидно имел отличную почву для развития женского рэпа, однако никто не смог достичь большего успеха, чем Grandmaster Flash &amp;amp; Furious Five или Sugarhill Gang. Некоторые композиции old school игрались в треках disco или funk, а другие были разбавлены синтезаторным сопровождением (последний тип музыки, с rap или без него, был известен под названием electro). История записанных альбомов в стиле Old school rap начинается в 1979 г. С появлением двух синглов от Fatback King Tim III и Sugarhill Gang Rapper&amp;quot;s Delight, хотя это движение развивалось до этого практически 10 лет. Студия Sugarhill Records быстро стала центром стиля old school rap и доминировала на рынке звукозаписи до того времени, пока в 1983–84 годах Run-D.M.C. не внес свою лепту в развитие техники звучания и не начал развивать направление hardcore urban. Их звук и стиль вскоре полностью захватил rap пространство, превратив клубную ориентацию old school и funk наследие 70-х в нечто старомодное. При сравнении с усложненными ритмами и рифмовками современного modern-day rap — или даже с hip-hop (который вышел в свет менее чем через 10 лет после Rapper&amp;quot;s Delight) — направление old school rap может казаться устаревшим и немного вялым. Однако лучшие треки old school продолжают жить, как самая лучшая музыка для вечеринок – вне зависимости от новой эры, в которой мы живем. Это удивительно, принимая во внимание то активное развитие музыкальной культуры.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Фильмы о Гарри Поттере</title>
-      <link>http://localhost:1313/NoteSphere/posts/harry_potter/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/harry_potter/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/harry_potter/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/harry_potter/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;Гарри Поттер и философский камень (2001)&lt;/li&gt;
 &lt;li&gt;Гарри Поттер и Тайная комната (2002)&lt;/li&gt;
@@ -339,16 +339,16 @@
     </item>
     <item>
       <title>Этот сложный русский язык...⁠⁠</title>
-      <link>http://localhost:1313/NoteSphere/posts/russian_language/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/russian_language/</link>
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/russian_language/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/russian_language/</guid>
       <description>&lt;p&gt;Перед нами стол. На столе стакан и вилка. Что они делают? Стакан стоит, а вилка лежит. Если мы воткнем вилку в столешницу, вилка будет стоять. Т. е. стоят вертикальные предметы, а лежат горизонтальные? Добавляем на стол тарелку и сковороду. Они вроде как горизонтальные, но на столе стоят. Теперь положим тарелку в сковородку. Там она лежит, а ведь на столе стояла. Может быть, стоят предметы, готовые к использованию? Нет, вилка-то готова была, когда лежала. Теперь на стол залезает кошка. Она может стоять, сидеть и лежать. Если в плане стояния и лежания она как-то лезет в логику «вертикальный-горизонтальный», то сидение — это новое свойство. Сидит она на попе. Теперь на стол села птичка. Она на столе сидит, но сидит на ногах, а не на попе. Хотя вроде бы должна стоять. Но стоять она не может вовсе. Но если мы убьем бедную птичку и сделаем чучело, оно будет на столе стоять. Может показаться, что сидение — атрибут живого, но сапог на ноге тоже сидит, хотя он не живой и не имеет попы. Так что, поди ж пойми, что стоит, что лежит, а что сидит. А мы еще удивляемся, что иностранцы считают наш язык сложным и сравнивают с китайским.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Расшифровки аббревиатур DVDRip, CAMRip, TS, TC, DVDSrc и т.д.</title>
-      <link>http://localhost:1313/NoteSphere/posts/abbreviations_rip/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/abbreviations_rip/</link>
       <pubDate>Sat, 09 Nov 2013 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/abbreviations_rip/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/abbreviations_rip/</guid>
       <description>&lt;h2 id=&#34;camrip-cam&#34;&gt;CAMRip (CAM)&lt;/h2&gt;
 &lt;p&gt;Иногда ошибочно помечают как Screen (SCR). Так называемая &amp;ldquo;экранка&amp;rdquo; или &amp;ldquo;тряпка&amp;rdquo;. Видео и звук записывают на камеру в зале кинотеатра. Изображение иногда может трястись, быть снятым под углом к экрану, в некоторых фильмах видны головы других кинозрителей и.т.д. Качество звука бывает разное, возможны помехи типа смеха публики. Обычно самое плохое и самое первое качество которое можно найти после официального релиза фильма.&lt;/p&gt;
 &lt;h2 id=&#34;telesync-ts&#34;&gt;Telesync (TS)&lt;/h2&gt;
@@ -356,9 +356,9 @@
     </item>
     <item>
       <title>Что если…</title>
-      <link>http://localhost:1313/NoteSphere/posts/what_if/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/what_if/</link>
       <pubDate>Tue, 27 Aug 2013 03:59:07 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/what_if/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/what_if/</guid>
       <description>&lt;p&gt;Что если интернет експлорер сосёт, потому что никто не отправляет отчёт об ошибке?&lt;/p&gt;
 &lt;p&gt;Что если однажды мы все когда-то были зомби, но потом случился человеко-апокалипсис?&lt;/p&gt;
 &lt;p&gt;Что если человек в зеркале реален, но просто повторяет за нами?&lt;/p&gt;
@@ -368,17 +368,17 @@
     </item>
     <item>
       <title>Многочисленные отображения солнечного затмения на земле</title>
-      <link>http://localhost:1313/NoteSphere/posts/solar_eclipse_on_earth/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/solar_eclipse_on_earth/</link>
       <pubDate>Tue, 13 Aug 2013 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/solar_eclipse_on_earth/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/solar_eclipse_on_earth/</guid>
       <description>&lt;p&gt;Многочисленные отображения солнечного затмения на земле в тени листвы деревьев, получившиеся ввиду эффекта камеры-обскуры, создаваемого светом, проходящим через маленькие зазоры между листьями. Фотография сделана во время солнечного затмения 3 октября 2005 года в Мадриде.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;../../images/Nils_van_der_Burg_-_eclipse_and_pin-hole_(by-sa).jpg&#34; title=&#34;image&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Красота математики</title>
-      <link>http://localhost:1313/NoteSphere/posts/beauty_of_mathematics/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/beauty_of_mathematics/</link>
       <pubDate>Fri, 27 Apr 2007 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/beauty_of_mathematics/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/beauty_of_mathematics/</guid>
       <description>&lt;p&gt;1 х 8 + 1 = 9&lt;/p&gt;
 &lt;p&gt;12 х 8 + 2 = 98&lt;/p&gt;
 &lt;p&gt;123 х 8 + 3 = 987&lt;/p&gt;
@@ -393,9 +393,9 @@
     </item>
     <item>
       <title>О пользе курения (юмор)</title>
-      <link>http://localhost:1313/NoteSphere/posts/benefits_of_smoking/</link>
+      <link>https://mcfev.github.io/NoteSphere/posts/benefits_of_smoking/</link>
       <pubDate>Fri, 27 Apr 2007 00:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/NoteSphere/posts/benefits_of_smoking/</guid>
+      <guid>https://mcfev.github.io/NoteSphere/posts/benefits_of_smoking/</guid>
       <description>&lt;p&gt;Курение - физиологически необходимый для организма человека процесс. Никотин убивает 36 видов микробов, из них восемь вредных. Под действием никотина первыми погибают старые и ослабленные клетки головного мозга. Смолы, осаждаемые при курении на внутренней поверхности легких, затрудняют доступ воздуха к альвеолам, чем принуждают организм к благотворному усилению кровотока в лёгких. Без курения аналогичный эффект можно получить лишь интенсивными занятиями спортом или сложными дыхательными упражнениями. Сам по себе процесс затягивания дыма, а также кашель курильщика является естественной и необходимой дыхательной гимнастикой.&lt;/p&gt;</description>
     </item>
   </channel>
