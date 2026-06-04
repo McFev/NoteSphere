@@ -1,6 +1,6 @@
 baseURL = 'https://mcfev.github.io/NoteSphere/'
 title = 'NoteSphere'
-theme = 'papermod'
+theme = 'PaperMod'
 defaultContentLanguage = 'ru'
 enableemoji = true
 publishDir = "public"
