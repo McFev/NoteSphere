@@ -1,84 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Notion on NoteSphere</title>
-    <link>https://mcfev.github.io/NoteSphere/categories/notion/</link>
-    <description>Recent content in Notion on NoteSphere</description>
-    <generator>Hugo</generator>
-    <language>ru-RU</language>
-    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0300</lastBuildDate>
-    <atom:link href="https://mcfev.github.io/NoteSphere/categories/notion/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>📝 Доп. клавиатура (25 keys)</title>
-      <link>https://mcfev.github.io/NoteSphere/posts/keyboard/</link>
-      <pubDate>Tue, 13 Feb 2024 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/posts/keyboard/</guid>
-      <description>&lt;h2 id=&#34;25key-qmk-json&#34;&gt;25KEY QMK Json&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1eUE0M8cn2ncafuZHglho2dna2Rbtsu4b/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; winry25tc.json&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;../files/keyboard_winry25tc.json&#34; download&gt;&amp;#x1f4ce; winry25tc.json&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;25-via-json&#34;&gt;25 VIA JSON&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1g8FQJqsXfv5QWmUL02TbGNAPrH1Z3PGh/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; Winry25T_via.json&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;../files/keyboard_Winry25T_via.json&#34; download&gt;&amp;#x1f4ce; Winry25T_via.json&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;25-via-hex&#34;&gt;25 VIA HEX&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1JEtuQA9Vjb9gTB_1GEe3frS6-fuASrNC/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; Winry25T_via.hex&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;../files/keyboard_Winry25T_via.hex&#34; download&gt;&amp;#x1f4ce; Winry25T_via.hex&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Notion on NoteSphere</title><link>https://mcfev.github.io/NoteSphere/categories/notion/</link><description>Recent content in Notion on NoteSphere</description><generator>Hugo</generator><language>ru-RU</language><lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://mcfev.github.io/NoteSphere/categories/notion/index.xml" rel="self" type="application/rss+xml"/><item><title>📝 Доп. клавиатура (25 keys)</title><link>https://mcfev.github.io/NoteSphere/posts/keyboard/</link><pubDate>Tue, 13 Feb 2024 00:00:00 +0300</pubDate><guid>https://mcfev.github.io/NoteSphere/posts/keyboard/</guid><description>&lt;h2 id="25key-qmk-json"&gt;25KEY QMK Json&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1eUE0M8cn2ncafuZHglho2dna2Rbtsu4b/view?usp=drivesdk"&gt;&amp;#x1f4be; winry25tc.json&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="../files/keyboard_winry25tc.json" download&gt;&amp;#x1f4ce; winry25tc.json&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="25-via-json"&gt;25 VIA JSON&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1g8FQJqsXfv5QWmUL02TbGNAPrH1Z3PGh/view?usp=drivesdk"&gt;&amp;#x1f4be; Winry25T_via.json&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="../files/keyboard_Winry25T_via.json" download&gt;&amp;#x1f4ce; Winry25T_via.json&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="25-via-hex"&gt;25 VIA HEX&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1JEtuQA9Vjb9gTB_1GEe3frS6-fuASrNC/view?usp=drivesdk"&gt;&amp;#x1f4be; Winry25T_via.hex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="../files/keyboard_Winry25T_via.hex" download&gt;&amp;#x1f4ce; Winry25T_via.hex&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Выполните следующие шаги:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Скачать программу VIA с &lt;a href=&#34;https://caniusevia.com/&#34;&gt;официального сайта&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Скачать программу VIA с &lt;a href="https://caniusevia.com/"&gt;официального сайта&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Загрузите файл VIA json с помощью Google&lt;/li&gt;
 &lt;li&gt;Следуйте этому руководству пользователя, чтобы импортировать файл JSON&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1SUOttEv8vljwHwYybOJ1XY1b3R_gl-L2/view?usp=drivesdk&#34;&gt;&amp;#x1f4be; VIAEnglish-.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;../files/keyboard_VIAEnglish-.pdf&#34;&gt;&amp;#x1f4ce; VIAEnglish-.pdf&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Схема сборки кубика Рубика 3x3</title>
-      <link>https://mcfev.github.io/NoteSphere/posts/rubiks_cube/</link>
-      <pubDate>Fri, 20 Nov 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/posts/rubiks_cube/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;шаг 1&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube1.svg&#34; title=&#34;шаг 1&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;шаг 2&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube2.svg&#34; title=&#34;шаг 2&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;шаг 3&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube3.svg&#34; title=&#34;шаг 3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1SUOttEv8vljwHwYybOJ1XY1b3R_gl-L2/view?usp=drivesdk"&gt;&amp;#x1f4be; VIAEnglish-.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="../files/keyboard_VIAEnglish-.pdf"&gt;&amp;#x1f4ce; VIAEnglish-.pdf&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Схема сборки кубика Рубика 3x3</title><link>https://mcfev.github.io/NoteSphere/posts/rubiks_cube/</link><pubDate>Fri, 20 Nov 2020 00:00:00 +0300</pubDate><guid>https://mcfev.github.io/NoteSphere/posts/rubiks_cube/</guid><description>&lt;p&gt;&lt;img alt="шаг 1" loading="lazy" src="../../images/rubiks_cube1.svg" title="шаг 1"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="шаг 2" loading="lazy" src="../../images/rubiks_cube2.svg" title="шаг 2"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="шаг 3" loading="lazy" src="../../images/rubiks_cube3.svg" title="шаг 3"&gt;&lt;/p&gt;
 &lt;p&gt;Эта операция в несколько этапов, последовательно устанавливает все светло-зелёные неверно стоящие кубики креста. Куб соберется только после переворота последнего кубика.&lt;/p&gt;
 &lt;p&gt;В процессе разворота кубиков необходимо не разворачивая куб подставлять неверно стоящие кубики на обозначенное жёлтым цветом место.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;шаг 4&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube4.svg&#34; title=&#34;шаг 4&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;шаг 5&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube5.svg&#34; title=&#34;шаг 5&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;шаг 6&#34; loading=&#34;lazy&#34; src=&#34;../../images/rubiks_cube6.svg&#34; title=&#34;шаг 6&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Эта операция в несколько этапов, последовательно устанавливает все светло-зелёные, неверно стоящие уголки куба. Кубик соберется только после переворота последнего уголка.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Программа удаления накипи (CALC) — полная длительность: ~20 минут</title>
-      <link>https://mcfev.github.io/NoteSphere/posts/krups_calc/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/posts/krups_calc/</guid>
-      <description>&lt;p&gt;Количество накипи зависит от жёсткости используемой воды. Прибор предупредит вас о необходимости проведения удаления накипи миганием светового индикатора «Накипь» &lt;strong&gt;&amp;lsquo;CALC&amp;rsquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="шаг 4" loading="lazy" src="../../images/rubiks_cube4.svg" title="шаг 4"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="шаг 5" loading="lazy" src="../../images/rubiks_cube5.svg" title="шаг 5"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="шаг 6" loading="lazy" src="../../images/rubiks_cube6.svg" title="шаг 6"&gt;&lt;/p&gt;
+&lt;p&gt;Эта операция в несколько этапов, последовательно устанавливает все светло-зелёные, неверно стоящие уголки куба. Кубик соберется только после переворота последнего уголка.&lt;/p&gt;</description></item><item><title>Программа удаления накипи (CALC) — полная длительность: ~20 минут</title><link>https://mcfev.github.io/NoteSphere/posts/krups_calc/</link><pubDate>Tue, 10 Mar 2020 00:00:00 +0300</pubDate><guid>https://mcfev.github.io/NoteSphere/posts/krups_calc/</guid><description>&lt;p&gt;Количество накипи зависит от жёсткости используемой воды. Прибор предупредит вас о необходимости проведения удаления накипи миганием светового индикатора «Накипь» &lt;strong&gt;&amp;lsquo;CALC&amp;rsquo;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;⚠️ &lt;strong&gt;Для соблюдения гарантийных условий необходимо выполнять цикл удаления накипи, когда прибор этого требует. Старайтесь соблюдать правильный порядок проведения операций. Когда индикатор горит, вы можете продолжать использовать устройство, но желательно выполнить программу как можно быстрее.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Если на вашей кофемашине установлен фильтр для воды Claris - Aqua Filter System F088, не забудьте снять его перед проведением цикла удаления накипи.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Программа чистки (CLEAN) — полная длительность: ~13 минут</title>
-      <link>https://mcfev.github.io/NoteSphere/posts/krups_clean/</link>
-      <pubDate>Mon, 09 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/posts/krups_clean/</guid>
-      <description>&lt;p&gt;Прибор предупредит Вас о необходимости проведения очистки миганием светового индикатора «Очистка» &amp;lsquo;&lt;strong&gt;CLEAN&lt;/strong&gt;&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;Если на вашей кофемашине установлен фильтр для воды Claris - Aqua Filter System F088, не забудьте снять его перед проведением цикла удаления накипи.&lt;/p&gt;</description></item><item><title>Программа чистки (CLEAN) — полная длительность: ~13 минут</title><link>https://mcfev.github.io/NoteSphere/posts/krups_clean/</link><pubDate>Mon, 09 Mar 2020 00:00:00 +0300</pubDate><guid>https://mcfev.github.io/NoteSphere/posts/krups_clean/</guid><description>&lt;p&gt;Прибор предупредит Вас о необходимости проведения очистки миганием светового индикатора «Очистка» &amp;lsquo;&lt;strong&gt;CLEAN&lt;/strong&gt;&amp;rsquo;.&lt;/p&gt;
 &lt;p&gt;Эта программа доступна только тогда, когда у прибора возникнет необходимость в очистке (приблизительно после 300 рабочих циклов приготовления кофе или эспрессо).&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;⚠️ &lt;strong&gt;Для соблюдения гарантийных условий необходимо выполнять цикл очистки прибора, когда он этого требует. Старайтесь соблюдать правильный порядок проведения операций.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Используйте только таблетки для очистки KRUPS. Вы можете приобрести изделия для очистки в сервисных центрах фирмы KRUPS.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Самая красивая теорема математики: тождество Эйлера</title>
-      <link>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;../../images/eulers_identity.png&#34; title=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Используйте только таблетки для очистки KRUPS. Вы можете приобрести изделия для очистки в сервисных центрах фирмы KRUPS.&lt;/p&gt;</description></item><item><title>Самая красивая теорема математики: тождество Эйлера</title><link>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</link><pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate><guid>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</guid><description>&lt;p&gt;&lt;img alt="image" loading="lazy" src="../../images/eulers_identity.png" title="image"&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/post/454136/&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;&lt;a href="https://habr.com/ru/post/454136/"&gt;&amp;#x1f517; источник&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

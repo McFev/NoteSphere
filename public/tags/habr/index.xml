@@ -1,45 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Habr on NoteSphere</title>
-    <link>https://mcfev.github.io/NoteSphere/tags/habr/</link>
-    <description>Recent content in Habr on NoteSphere</description>
-    <generator>Hugo</generator>
-    <language>ru-RU</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0300</lastBuildDate>
-    <atom:link href="https://mcfev.github.io/NoteSphere/tags/habr/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Самая красивая теорема математики: тождество Эйлера</title>
-      <link>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;../../images/eulers_identity.png&#34; title=&#34;image&#34;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Habr on NoteSphere</title><link>https://mcfev.github.io/NoteSphere/tags/habr/</link><description>Recent content in Habr on NoteSphere</description><generator>Hugo</generator><language>ru-RU</language><lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0300</lastBuildDate><atom:link href="https://mcfev.github.io/NoteSphere/tags/habr/index.xml" rel="self" type="application/rss+xml"/><item><title>Самая красивая теорема математики: тождество Эйлера</title><link>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</link><pubDate>Tue, 02 Jul 2019 00:00:00 +0300</pubDate><guid>https://mcfev.github.io/NoteSphere/posts/eulers_identity/</guid><description>&lt;p&gt;&lt;img alt="image" loading="lazy" src="../../images/eulers_identity.png" title="image"&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;a href=&#34;https://habr.com/ru/post/454136/&#34;&gt;&amp;#x1f517; источник&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Юмор</title>
-      <link>https://mcfev.github.io/NoteSphere/posts/humor/</link>
-      <pubDate>Tue, 02 May 2017 00:00:00 +0300</pubDate>
-      <guid>https://mcfev.github.io/NoteSphere/posts/humor/</guid>
-      <description>&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Сайт&lt;/th&gt;
-          &lt;th&gt;Ссылка&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img alt=&#34;habr&#34; loading=&#34;lazy&#34; src=&#34;../../images/habr.png&#34; title=&#34;habr&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://habr.com/ru/articles/285570/&#34;&gt;Если бы плотников нанимали так же, как программистов&lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img alt=&#34;xakep&#34; loading=&#34;lazy&#34; src=&#34;../../images/xakep.png&#34; title=&#34;xakep&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://xakep.ru/2006/12/16/35784/&#34;&gt;Хакер в столовой&lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;&lt;a href="https://habr.com/ru/post/454136/"&gt;&amp;#x1f517; источник&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Юмор</title><link>https://mcfev.github.io/NoteSphere/posts/humor/</link><pubDate>Tue, 02 May 2017 00:00:00 +0300</pubDate><guid>https://mcfev.github.io/NoteSphere/posts/humor/</guid><description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Сайт&lt;/th&gt;
+&lt;th&gt;Ссылка&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt="habr" loading="lazy" src="../../images/habr.png" title="habr"&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://habr.com/ru/articles/285570/"&gt;Если бы плотников нанимали так же, как программистов&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt="xakep" loading="lazy" src="../../images/xakep.png" title="xakep"&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://xakep.ru/2006/12/16/35784/"&gt;Хакер в столовой&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description></item></channel></rss>
